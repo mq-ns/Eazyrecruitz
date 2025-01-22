@@ -49,7 +49,7 @@
                         ?>
 
                         <div class="inner-box clearfix">
-                            <?php foreach ($roles as $role): ?>
+                            <?php foreach ($roles as $role){ ?>
                                 <?php
                                 // 提前赋值
                                 $number = $role['number'];
@@ -71,15 +71,15 @@
                                         <div class="icon-box"><i class="<?= $icon ?>"></i></div>
                                         <h5><?= $list_title ?></h5>
                                         <ul class="list clearfix">
-                                            <?php foreach ($role_list as $item): ?>
+                                            <?php foreach ($role_list as $item){ ?>
                                                 <li>> <?= $item ?></li>
-                                            <?php endforeach; ?>
+                                            <?php } ?>
                                         </ul>
                                         <div class="link"><a href="<?= $link ?>"><i class="flaticon-right-arrow"></i>More
                                                 Details</a></div>
                                     </div>
                                 </div>
-                            <?php endforeach; ?>
+                            <?php } ?>
                         </div>
 
                     </div>
@@ -141,7 +141,7 @@
                                     ?>
 
                                     <div class="tabs-content">
-                                        <?php foreach ($tabs as $tab): ?>
+                                        <?php foreach ($tabs as $tab){ ?>
                                             <?php
                                             // 提前赋值
                                             $id = $tab['id'];
@@ -162,7 +162,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        <?php endforeach; ?>
+                                        <?php } ?>
                                     </div>
 
                                 </div>
@@ -200,7 +200,7 @@
                                     ?>
 
                                     <ul class="list-item clearfix">
-                                        <?php foreach ($listItems as $item): ?>
+                                        <?php foreach ($listItems as $item){ ?>
                                             <?php
                                             // 提前赋值
                                             $icon = $item['icon'];
@@ -218,7 +218,7 @@
                                                     </div>
                                                 </div>
                                             </li>
-                                        <?php endforeach; ?>
+                                        <?php } ?>
                                     </ul>
 
                                 </div>
@@ -244,7 +244,7 @@
                                     ?>
 
                                     <ul class="list-item clearfix">
-                                        <?php foreach ($listItems as $item): ?>
+                                        <?php foreach ($listItems as $item){ ?>
                                             <?php
                                             // 提前赋值
                                             $icon = $item['icon'];
@@ -262,7 +262,7 @@
                                                     </div>
                                                 </div>
                                             </li>
-                                        <?php endforeach; ?>
+                                        <?php } ?>
                                     </ul>
 
                                 </div>
@@ -291,7 +291,7 @@
                         ?>
 
                         <div class="latest-project-carousel owl-carousel owl-theme owl-dots-none">
-                            <?php foreach ($projects as $project): ?>
+                            <?php foreach ($projects as $project){ ?>
                                 <?php
                                 // 提前赋值
                                 $image = $project['image'];
@@ -312,7 +312,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            <?php endforeach; ?>
+                            <?php } ?>
                         </div>
 
                     </div>

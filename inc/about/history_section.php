@@ -43,7 +43,7 @@ $history = [
             <!-- 第二列 - 历史内容部分 -->
             <div class="col-lg-4 col-md-12 col-sm-12 column">
                 <div class="inner-box">
-                    <?php foreach ($history as $index => $item): ?>
+                    <?php foreach ($history as $index => $item){ ?>
                         <?php
                         // 提前赋值
                         $year = $item['year'];
@@ -70,7 +70,7 @@ $history = [
                                 <p><?= $description ?></p>
                             </div>
                         </div>
-                    <?php endforeach; ?>
+                    <?php } ?>
                 </div>
             </div>
         </div>

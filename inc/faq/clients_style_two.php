@@ -20,7 +20,7 @@
         ];
         ?>
         <div class="clients-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
-            <?php foreach ($clients as $client): ?>
+            <?php foreach ($clients as $client){ ?>
                 <?php
                 // 提前赋值
                 $image = $client['image'];
@@ -29,7 +29,7 @@
                 <figure class="clients-logo-box">
                     <a href="<?= $link ?>"><img src="<?= $image ?>" alt=""></a>
                 </figure>
-            <?php endforeach; ?>
+            <?php } ?>
         </div>
 
     </div>

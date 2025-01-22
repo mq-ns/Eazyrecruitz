@@ -26,7 +26,7 @@ $awards = [
         <div class="row clearfix">
             <div class="col-lg-4 col-md-6 col-sm-12 inner-column">
                 <div class="inner-block">
-                    <?php foreach ($awards as $item): ?>
+                    <?php foreach ($awards as $item){ ?>
                         <?php
                         // 提前赋值
                         $icon = $item['icon'];
@@ -46,7 +46,7 @@ $awards = [
                                 </ul>
                             </div>
                         </div>
-                    <?php endforeach; ?>
+                    <?php } ?>
                 </div>
 
             </div>
@@ -55,7 +55,7 @@ $awards = [
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 inner-column">
                 <div class="inner-block">
-                    <?php foreach ($awards as $item): ?>
+                    <?php foreach ($awards as $item){ ?>
                         <?php
                         // 提前赋值
                         $icon = $item['icon'];
@@ -75,7 +75,7 @@ $awards = [
                                 </ul>
                             </div>
                         </div>
-                    <?php endforeach; ?>
+                    <?php } ?>
                 </div>
 
             </div>

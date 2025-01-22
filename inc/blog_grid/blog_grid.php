@@ -70,7 +70,7 @@ $newsItems = [
             <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                 <div class="blog-grid-content">
                     <div class="row clearfix">
-                        <?php foreach ($newsItems as $item): ?>
+                        <?php foreach ($newsItems as $item){ ?>
                             <?php
                             // 提前赋值
                             $image = $item['image'];
@@ -107,7 +107,7 @@ $newsItems = [
                                     </div>
                                 </div>
                             </div>
-                        <?php endforeach; ?>
+                        <?php } ?>
                     </div>
 
                     <div class="more-btn centred"><a href="blog-grid.html">Load More</a></div>

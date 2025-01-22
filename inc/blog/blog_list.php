@@ -45,7 +45,7 @@ $blogPosts = [
         <div class="row clearfix">
             <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                 <div class="blog-list-content">
-                    <?php foreach ($blogPosts as $post): ?>
+                    <?php foreach ($blogPosts as $post){ ?>
                         <?php
                         // 提前赋值
                         $image = $post['image'];
@@ -96,7 +96,7 @@ $blogPosts = [
                                 </div>
                             </div>
                         </div>
-                    <?php endforeach; ?>
+                    <?php } ?>
                     <div class="pagination-wrapper">
                         <ul class="pagination">
                             <li><a href="blog-list.html"><i class="flaticon-arrowhead-thin-outline-to-the-left"></i></a>

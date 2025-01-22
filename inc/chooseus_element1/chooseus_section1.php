@@ -35,7 +35,7 @@ $chooseUsBlocks = [
 <section page="inc/chooseus_element1/chooseus_section1.php" class="chooseus-section alternet-2 sec-pad-2">
     <div class="auto-container">
         <div class="row clearfix">
-            <?php foreach ($chooseUsBlocks as $block): ?>
+            <?php foreach ($chooseUsBlocks as $block){ ?>
                 <?php
                 // 提前赋值
                 $icon = $block['icon'];
@@ -55,7 +55,7 @@ $chooseUsBlocks = [
                         </div>
                     </div>
                 </div>
-            <?php endforeach; ?>
+            <?php } ?>
         </div>
 
     </div>

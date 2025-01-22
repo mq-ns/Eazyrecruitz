@@ -275,7 +275,7 @@
                         ?>
 
                         <div class="latest-project-carousel owl-carousel owl-theme owl-dots-none">
-                            <?php foreach ($projects as $project): ?>
+                            <?php foreach ($projects as $project){ ?>
                                 <?php
                                 // 提前赋值
                                 $image = $project['image'];
@@ -296,7 +296,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            <?php endforeach; ?>
+                            <?php } ?>
                         </div>
 
                     </div>

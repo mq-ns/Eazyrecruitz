@@ -14,7 +14,7 @@ $clients = [
 <section page="inc/apply_now/clients_section.php" class="clients-section alternet-2">
     <div class="outer-container">
         <div class="clients-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
-            <?php foreach ($clients as $item): ?>
+            <?php foreach ($clients as $item){ ?>
                 <?php
                 // 提前赋值
                 $logo = $item['logo'];
@@ -25,7 +25,7 @@ $clients = [
                     <a href="<?= $link ?>"><img src="<?= $logo ?>" alt=""></a>
                     <span class="logo-title"><a href="<?= $link ?>"><?= $title ?></a></span>
                 </figure>
-            <?php endforeach; ?>
+            <?php } ?>
         </div>
 
     </div>

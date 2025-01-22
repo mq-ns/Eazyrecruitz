@@ -36,7 +36,7 @@
                         ?>
 
                         <div class="progress-inner">
-                            <?php foreach ($progressBars as $item): ?>
+                            <?php foreach ($progressBars as $item){ ?>
                                 <?php
                                 // 提前赋值
                                 $percent = $item['percent'];
@@ -50,7 +50,7 @@
                                     </div>
                                     <h6><?= $label ?></h6>
                                 </div>
-                            <?php endforeach; ?>
+                            <?php } ?>
                         </div>
 
                         <div class="link"><a href="index.html"><i class="flaticon-right-arrow"></i>Meet All Team

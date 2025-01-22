@@ -53,7 +53,7 @@ $accordionItems = [
                         <h2>You'll Find Answers Here!</h2>
                     </div>
                     <ul class="accordion-box">
-                        <?php foreach ($accordionItems as $item): ?>
+                        <?php foreach ($accordionItems as $item){ ?>
                             <?php
                             // 提前赋值
                             $activeClass = $item['active'] ? 'active-block' : '';
@@ -74,7 +74,7 @@ $accordionItems = [
                                     </div>
                                 </div>
                             </li>
-                        <?php endforeach; ?>
+                        <?php } ?>
                     </ul>
 
                 </div>

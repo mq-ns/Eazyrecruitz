@@ -34,7 +34,7 @@ $steps = [
                 <h2>Our Plan & Working Style</h2>
             </div>
             <div class="row clearfix">
-                <?php foreach ($steps as $item): ?>
+                <?php foreach ($steps as $item){ ?>
                     <?php
                     // 提前将数组中的字段赋值给局部变量
                     $step_number = $item['step_number'];
@@ -56,7 +56,7 @@ $steps = [
                             </div>
                         </div>
                     </div>
-                <?php endforeach; ?>
+                <?php } ?>
             </div>
 
         </div>
