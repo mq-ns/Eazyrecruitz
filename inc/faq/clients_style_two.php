@@ -5,18 +5,18 @@
         <div class="title-inner centred">
             <h2>Need of Highly Qualified HR Personnel or Employment Opportunities</h2>
             <div class="btn-box">
-                <a href="index-2.html" class="btn-one">Hire</a>
-                <a href="index-2.html" class="btn-two">Apply</a>
+                <a href="index-2.php" class="btn-one">Hire</a>
+                <a href="index-2.php" class="btn-two">Apply</a>
             </div>
         </div>
         <?php
         $clients = [
-            ['image' => 'assets/images/clients/clients-logo-7.png', 'link' => 'index.html'],
-            ['image' => 'assets/images/clients/clients-logo-8.png', 'link' => 'index.html'],
-            ['image' => 'assets/images/clients/clients-logo-9.png', 'link' => 'index.html'],
-            ['image' => 'assets/images/clients/clients-logo-10.png', 'link' => 'index.html'],
-            ['image' => 'assets/images/clients/clients-logo-11.png', 'link' => 'index.html'],
-            ['image' => 'assets/images/clients/clients-logo-12.png', 'link' => 'index.html'],
+            ['image' => 'assets/images/clients/clients-logo-7.png', 'link' => 'index.php'],
+            ['image' => 'assets/images/clients/clients-logo-8.png', 'link' => 'index.php'],
+            ['image' => 'assets/images/clients/clients-logo-9.png', 'link' => 'index.php'],
+            ['image' => 'assets/images/clients/clients-logo-10.png', 'link' => 'index.php'],
+            ['image' => 'assets/images/clients/clients-logo-11.png', 'link' => 'index.php'],
+            ['image' => 'assets/images/clients/clients-logo-12.png', 'link' => 'index.php'],
         ];
         ?>
         <div class="clients-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">

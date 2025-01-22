@@ -7,7 +7,7 @@ $projects = [
         'pattern_2' => 'assets/images/shape/pattern-17.png',
         'category' => '@ Presentation',
         'title' => 'Helping Bigbasket Scale Up',
-        'link' => 'index-2.html',
+        'link' => 'index-2.php',
         'lightbox_image' => 'assets/images/project/project-1.jpg',
     ],
     [
@@ -16,7 +16,7 @@ $projects = [
         'pattern_2' => 'assets/images/shape/pattern-17.png',
         'category' => '@ Presentation',
         'title' => 'Helping Bigbasket Scale Up',
-        'link' => 'index-2.html',
+        'link' => 'index-2.php',
         'lightbox_image' => 'assets/images/project/project-2.jpg',
     ],
     [
@@ -25,7 +25,7 @@ $projects = [
         'pattern_2' => 'assets/images/shape/pattern-17.png',
         'category' => '@ Presentation',
         'title' => 'Helping Bigbasket Scale Up',
-        'link' => 'index-2.html',
+        'link' => 'index-2.php',
         'lightbox_image' => 'assets/images/project/project-3.jpg',
     ],
     [
@@ -34,7 +34,7 @@ $projects = [
         'pattern_2' => 'assets/images/shape/pattern-17.png',
         'category' => '@ Presentation',
         'title' => 'Helping Bigbasket Scale Up',
-        'link' => 'index-2.html',
+        'link' => 'index-2.php',
         'lightbox_image' => 'assets/images/project/project-4.jpg',
     ],
     [
@@ -43,7 +43,7 @@ $projects = [
         'pattern_2' => 'assets/images/shape/pattern-17.png',
         'category' => '@ Presentation',
         'title' => 'Helping Bigbasket Scale Up',
-        'link' => 'index-2.html',
+        'link' => 'index-2.php',
         'lightbox_image' => 'assets/images/project/project-5.jpg',
     ],
 ];

@@ -17,14 +17,14 @@
                                 'icon' => 'assets/images/icons/icon-54.png',
                                 'title' => 'Understand Your <br />Needs',
                                 'description' => 'Indignation and dislike men who beguiled demoralized.',
-                                'link' => 'overview.html',
+                                'link' => 'overview.php',
                                 'link_text' => 'Start Discuss',
                             ],
                             [
                                 'icon' => 'assets/images/icons/icon-55.png',
                                 'title' => 'Find the Perfect Candidate',
                                 'description' => 'Business it will frequently occur pleasures repudiated.',
-                                'link' => 'overview.html',
+                                'link' => 'overview.php',
                                 'link_text' => 'Post a Job',
                             ],
                         ];
@@ -61,14 +61,14 @@
                     'image' => 'assets/images/resource/solutions-1.jpg',
                     'icon' => 'assets/images/icons/icon-56.png',
                     'title' => 'Customized Staffing Solutions and Relationship Building.',
-                    'link' => 'overview.html',
+                    'link' => 'overview.php',
                     'number' => '01',
                 ],
                 [
                     'image' => 'assets/images/resource/solutions-2.jpg',
                     'icon' => 'assets/images/icons/icon-57.png',
                     'title' => 'Full-Service Recruiting & Solutions.',
-                    'link' => 'overview.html',
+                    'link' => 'overview.php',
                     'number' => '02',
                 ],
                 // 可添加更多项

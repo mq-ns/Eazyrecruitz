@@ -19,7 +19,7 @@
                                     'icon' => 'assets/images/icons/icon-7.png',
                                     'number' => '01',
                                     'title' => 'Sourcing the Best',
-                                    'link' => 'index.html',
+                                    'link' => 'index.php',
                                     'description' => 'All the lorem ipsum generators on the Internet tend.',
                                     'delay' => '00ms'
                                 ],
@@ -27,7 +27,7 @@
                                     'icon' => 'assets/images/icons/icon-8.png',
                                     'number' => '02',
                                     'title' => 'Volume Hiring',
-                                    'link' => 'index.html',
+                                    'link' => 'index.php',
                                     'description' => 'On the other hand, we denounce with righteous.',
                                     'delay' => '300ms'
                                 ],
@@ -35,7 +35,7 @@
                                     'icon' => 'assets/images/icons/icon-9.png',
                                     'number' => '03',
                                     'title' => 'Partners in Team Building',
-                                    'link' => 'index.html',
+                                    'link' => 'index.php',
                                     'description' => 'Man therefore always holds in these matters to this.',
                                     'delay' => '600ms'
                                 ],

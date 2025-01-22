@@ -12,14 +12,14 @@
                     'icon' => 'flaticon-factory',
                     'title' => 'Industries Hiring',
                     'description' => 'Find fault with a man who chooses to enjoy a pleasure that has no annoying consequences.',
-                    'link' => 'service.html',
+                    'link' => 'service.php',
                     'link_text' => 'Industries'
                 ],
                 [
                     'icon' => 'flaticon-working-man',
                     'title' => 'Professions Hiring',
                     'description' => 'Chooses to enjoy a pleasure that has no annoying one who avoids a pain that produces.',
-                    'link' => 'service.html',
+                    'link' => 'service.php',
                     'link_text' => 'Professions'
                 ]
             ];

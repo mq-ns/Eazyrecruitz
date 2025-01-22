@@ -22,7 +22,7 @@
                         'pattern2' => 'assets/images/shape/pattern-17.png',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket <br />Scale Up',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                         'lightbox' => 'assets/images/project/project-42.jpg',
                         'classes' => 'masonry-item small-column all presentation consulting market recruitment'
                     ],
@@ -32,7 +32,7 @@
                         'pattern2' => 'assets/images/shape/pattern-17.png',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket <br />Scale Up',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                         'lightbox' => 'assets/images/project/project-43.jpg',
                         'classes' => 'masonry-item small-column all consulting presentation technology'
                     ],
@@ -42,7 +42,7 @@
                         'pattern2' => 'assets/images/shape/pattern-17.png',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket <br />Scale Up',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                         'lightbox' => 'assets/images/project/project-51.jpg',
                         'classes' => 'masonry-item small-column all consulting technology'
                     ],
@@ -84,7 +84,7 @@
                 <?php } ?>
             </div>
 
-            <div class="more-btn centred"><a href="portfolio-1.html">Load More</a></div>
+            <div class="more-btn centred"><a href="portfolio-1.php">Load More</a></div>
         </div>
     </div>
 </section>

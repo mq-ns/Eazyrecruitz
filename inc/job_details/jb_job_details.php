@@ -15,11 +15,11 @@
                                     <ul class="info clearfix">
                                         <li>
                                             <span>Save this job</span>
-                                            <a href="job-details.html"><i class="flaticon-bookmark"></i></a>
+                                            <a href="job-details.php"><i class="flaticon-bookmark"></i></a>
                                         </li>
                                         <li>
                                             <span>Upload File</span>
-                                            <a href="job-details.html"><i class="flaticon-cloud-computing"></i></a>
+                                            <a href="job-details.php"><i class="flaticon-cloud-computing"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -46,17 +46,17 @@
                             </div>
                             <div class="social-box">
                                 <ul class="social-links clearfix">
-                                    <li><a href="job-details.html"><i class="fab fa-facebook-f"></i>Facebook</a></li>
-                                    <li><a href="job-details.html"><i class="fab fa-twitter"></i>Twitter</a></li>
-                                    <li><a href="job-details.html"><i class="fab fa-google-plus-g"></i>Google +</a></li>
-                                    <li><a href="job-details.html"><i class="fab fa-linkedin-in"></i>Linkedin</a></li>
+                                    <li><a href="job-details.php"><i class="fab fa-facebook-f"></i>Facebook</a></li>
+                                    <li><a href="job-details.php"><i class="fab fa-twitter"></i>Twitter</a></li>
+                                    <li><a href="job-details.php"><i class="fab fa-google-plus-g"></i>Google +</a></li>
+                                    <li><a href="job-details.php"><i class="fab fa-linkedin-in"></i>Linkedin</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
                         <div class="job-sidebar">
-                            <div class="apply-btn"><a href="job-details.html" class="theme-btn-one">Apply for This Job</a></div>
+                            <div class="apply-btn"><a href="job-details.php" class="theme-btn-one">Apply for This Job</a></div>
                             <div class="sidebar-widget job-discription">
                                 <ul class="list">
                                     <li>
@@ -69,7 +69,7 @@
                                     </li>
                                     <li>
                                         <span>Website</span>
-                                        <p><a href="job-details.html">http://www.deepsea.com</a></p>
+                                        <p><a href="job-details.php">http://www.deepsea.com</a></p>
                                     </li>
                                     <li>
                                         <span>Salary</span>
@@ -99,9 +99,9 @@
                                         <li>Mail: <a href="mailto:baldwin@example.com">baldwin@example.com</a></li>
                                     </ul>
                                     <ul class="social-links">
-                                        <li><a href="job-details.html"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="job-details.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="job-details.html"><i class="fab fa-linkedin-in"></i></a></li>
+                                        <li><a href="job-details.php"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="job-details.php"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="job-details.php"><i class="fab fa-linkedin-in"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -113,7 +113,7 @@
                             <div class="single-job-post">
                                 <div class="job-header clearfix">
                                     <ul class="info pull-left">
-                                        <li><a href="job-openings.html">Contract to Hire</a></li>
+                                        <li><a href="job-openings.php">Contract to Hire</a></li>
                                         <li><i class="flaticon-clock"></i>Posted 2 Hrs ago</li>
                                     </ul>
                                     <div class="number pull-right"><p>Job Num: 2022ER</p></div>
@@ -133,14 +133,14 @@
                                         <p>1-3 Yrs</p>
                                     </div>
                                     <div class="apply-btn">
-                                        <a href="job-openings.html">Apply</a>
+                                        <a href="job-openings.php">Apply</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="single-job-post">
                                 <div class="job-header clearfix">
                                     <ul class="info pull-left">
-                                        <li><a href="job-openings.html">Contract</a></li>
+                                        <li><a href="job-openings.php">Contract</a></li>
                                         <li><i class="flaticon-clock"></i>Posted 5 Hrs ago</li>
                                     </ul>
                                     <div class="number pull-right"><p>Job Num: 2021ER</p></div>
@@ -160,7 +160,7 @@
                                         <p>3-5 Yrs</p>
                                     </div>
                                     <div class="apply-btn">
-                                        <a href="job-openings.html">Apply</a>
+                                        <a href="job-openings.php">Apply</a>
                                     </div>
                                 </div>
                             </div>

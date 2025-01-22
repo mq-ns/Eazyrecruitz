@@ -47,7 +47,7 @@
                                             ],
                                         ],
                                         'link_text' => 'Your Required Talent',
-                                        'link_url' => 'index.html',
+                                        'link_url' => 'index.php',
                                     ],
                                     [
                                         'id' => 'tab-2',
@@ -66,7 +66,7 @@
                                             ],
                                         ],
                                         'link_text' => 'Your Required Talent',
-                                        'link_url' => 'index.html',
+                                        'link_url' => 'index.php',
                                     ],
                                 ];
                                 ?>

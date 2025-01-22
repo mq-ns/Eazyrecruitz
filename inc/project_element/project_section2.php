@@ -8,19 +8,19 @@
                     [
                         'image' => 'assets/images/project/project-34.jpg',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                         'lightbox_image' => 'assets/images/project/project-34.jpg'
                     ],
                     [
                         'image' => 'assets/images/project/project-35.jpg',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                         'lightbox_image' => 'assets/images/project/project-35.jpg'
                     ],
                     [
                         'image' => 'assets/images/project/project-36.jpg',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                         'lightbox_image' => 'assets/images/project/project-36.jpg'
                     ]
                 ];

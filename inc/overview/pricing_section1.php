@@ -23,7 +23,7 @@
                             'salary' => 'Salary Level upto $50k',
                             'price' => '$10k',
                             'fee' => 'Average Percentage Fee 15% / Candidate',
-                            'link' => 'index-2.html',
+                            'link' => 'index-2.php',
                             'popular' => false,
                         ],
                         [
@@ -32,7 +32,7 @@
                             'salary' => 'Salary Level upto $50k',
                             'price' => '$15k',
                             'fee' => 'Average Percentage Fee 20% / Candidate',
-                            'link' => 'index-2.html',
+                            'link' => 'index-2.php',
                             'popular' => true,
                         ],
                         [
@@ -41,7 +41,7 @@
                             'salary' => 'Salary Level upto $50k',
                             'price' => '$18k',
                             'fee' => 'Average Percentage Fee 25% / Candidate',
-                            'link' => 'index-2.html',
+                            'link' => 'index-2.php',
                             'popular' => false,
                         ],
                         [
@@ -50,7 +50,7 @@
                             'salary' => 'Salary Level upto $50k',
                             'price' => '$20k',
                             'fee' => 'Average Percentage Fee 30% / Candidate',
-                            'link' => 'index-2.html',
+                            'link' => 'index-2.php',
                             'popular' => false,
                         ],
                     ];
@@ -94,7 +94,7 @@
                             'salary' => 'Salary Level upto $50k',
                             'price' => '$10k',
                             'fee' => 'Average Percentage Fee 15% / Candidate',
-                            'link' => 'index-2.html',
+                            'link' => 'index-2.php',
                             'popular' => false,
                         ],
                         [
@@ -103,7 +103,7 @@
                             'salary' => 'Salary Level upto $50k',
                             'price' => '$15k',
                             'fee' => 'Average Percentage Fee 20% / Candidate',
-                            'link' => 'index-2.html',
+                            'link' => 'index-2.php',
                             'popular' => true,
                         ],
                         [
@@ -112,7 +112,7 @@
                             'salary' => 'Salary Level upto $50k',
                             'price' => '$18k',
                             'fee' => 'Average Percentage Fee 25% / Candidate',
-                            'link' => 'index-2.html',
+                            'link' => 'index-2.php',
                             'popular' => false,
                         ],
                         [
@@ -121,7 +121,7 @@
                             'salary' => 'Salary Level upto $50k',
                             'price' => '$20k',
                             'fee' => 'Average Percentage Fee 30% / Candidate',
-                            'link' => 'index-2.html',
+                            'link' => 'index-2.php',
                             'popular' => false,
                         ],
                     ];

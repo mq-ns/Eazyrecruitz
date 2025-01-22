@@ -10,7 +10,7 @@
              <div class="title-inner bg-color-2">
                  <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-40.png);"></div>
                  <h2>Are You Looking for an Employee?...</h2>
-                 <a href="overview.html" class="theme-btn-two">Hire Now</a>
+                 <a href="overview.php" class="theme-btn-two">Hire Now</a>
              </div>
              <div class="funfact-inner clearfix">
                  <?php

@@ -12,7 +12,7 @@
                     'price' => '$5.5k',
                     'role' => ' / Role',
                     'fee' => 'Average Percentage Fee 10% / Candiadte',
-                    'link' => 'index-2.html',
+                    'link' => 'index-2.php',
                     'popular' => false,
                 ],
                 [
@@ -22,7 +22,7 @@
                     'price' => '$6.5k',
                     'role' => ' / Role',
                     'fee' => 'Average Percentage Fee 12% / Candiadte',
-                    'link' => 'index-2.html',
+                    'link' => 'index-2.php',
                     'popular' => true,
                 ],
                 [
@@ -32,7 +32,7 @@
                     'price' => '$8.5k',
                     'role' => ' / Role',
                     'fee' => 'Average Percentage Fee 15% / Candiadte',
-                    'link' => 'index-2.html',
+                    'link' => 'index-2.php',
                     'popular' => false,
                 ],
                 [
@@ -42,7 +42,7 @@
                     'price' => '$12k',
                     'role' => ' / Role',
                     'fee' => 'Average Percentage Fee 20% / Candiadte',
-                    'link' => 'index-2.html',
+                    'link' => 'index-2.php',
                     'popular' => false,
                 ],
             ],
@@ -58,7 +58,7 @@
                     'price' => '$10k',
                     'role' => ' / Role',
                     'fee' => 'Average Percentage Fee 15% / Candiadte',
-                    'link' => 'index-2.html',
+                    'link' => 'index-2.php',
                     'popular' => false,
                 ],
                 [
@@ -68,7 +68,7 @@
                     'price' => '$15k',
                     'role' => ' / Role',
                     'fee' => 'Average Percentage Fee 20% / Candiadte',
-                    'link' => 'index-2.html',
+                    'link' => 'index-2.php',
                     'popular' => true,
                 ],
                 [
@@ -78,7 +78,7 @@
                     'price' => '$18k',
                     'role' => ' / Role',
                     'fee' => 'Average Percentage Fee 25% / Candiadte',
-                    'link' => 'index-2.html',
+                    'link' => 'index-2.php',
                     'popular' => false,
                 ],
                 [
@@ -88,7 +88,7 @@
                     'price' => '$20k',
                     'role' => ' / Role',
                     'fee' => 'Average Percentage Fee 30% / Candiadte',
-                    'link' => 'index-2.html',
+                    'link' => 'index-2.php',
                     'popular' => false,
                 ],
             ],

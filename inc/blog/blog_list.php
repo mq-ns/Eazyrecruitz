@@ -6,16 +6,16 @@ $blogPosts = [
         'post_date' => '24<br />May',
         'category' => 'Human Resource',
         'title' => '5 Effective Ways to Hire More Workers',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author_image' => 'assets/images/news/author-1.png',
         'author' => 'Harley Reuban',
         'comments' => '3 Cmnts',
         'views' => '5 Views',
         'description' => 'Explain to you how all this mistaken idea of denouncing pleasure & praising pain was born and I will give you a complete ...',
         'social_links' => [
-            'facebook' => 'blog-list.html',
-            'twitter' => 'blog-list.html',
-            'google_plus' => 'blog-list.html',
+            'facebook' => 'blog-list.php',
+            'twitter' => 'blog-list.php',
+            'google_plus' => 'blog-list.php',
         ],
         'animation_delay' => '00ms',
     ],
@@ -24,16 +24,16 @@ $blogPosts = [
         'post_date' => '23<br />May',
         'category' => 'Techiques',
         'title' => 'Does My Business Need a Director of Training?',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author_image' => 'assets/images/news/author-2.png',
         'author' => 'Harley Reuban',
         'comments' => '4 Cmnts',
         'views' => '10 Views',
         'description' => 'Indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire ...',
         'social_links' => [
-            'facebook' => 'blog-list.html',
-            'twitter' => 'blog-list.html',
-            'google_plus' => 'blog-list.html',
+            'facebook' => 'blog-list.php',
+            'twitter' => 'blog-list.php',
+            'google_plus' => 'blog-list.php',
         ],
         'animation_delay' => '00ms',
     ],
@@ -77,12 +77,12 @@ $blogPosts = [
                                         <p><?= $description ?></p>
                                         <ul class="post-info clearfix">
                                             <li><img src="<?= $author_image ?>" alt=""><a
-                                                    href="index.html"><?= $author ?></a></li>
-                                            <li><i class="far fa-comment"></i><a href="index.html"><?= $comments ?></a></li>
-                                            <li><i class="far fa-eye"></i><a href="index.html"><?= $views ?></a></li>
+                                                    href="index.php"><?= $author ?></a></li>
+                                            <li><i class="far fa-comment"></i><a href="index.php"><?= $comments ?></a></li>
+                                            <li><i class="far fa-eye"></i><a href="index.php"><?= $views ?></a></li>
                                         </ul>
                                         <div class="share-box">
-                                            <a href="blog-list.html" class="share-link"><i class="fas fa-share-alt"></i></a>
+                                            <a href="blog-list.php" class="share-link"><i class="fas fa-share-alt"></i></a>
                                             <ul class="social-links clearfix">
                                                 <li><a href="<?= $social_links['facebook'] ?>"><i
                                                             class="fab fa-facebook-f"></i></a></li>
@@ -99,11 +99,11 @@ $blogPosts = [
                     <?php } ?>
                     <div class="pagination-wrapper">
                         <ul class="pagination">
-                            <li><a href="blog-list.html"><i class="flaticon-arrowhead-thin-outline-to-the-left"></i></a>
+                            <li><a href="blog-list.php"><i class="flaticon-arrowhead-thin-outline-to-the-left"></i></a>
                             </li>
-                            <li><a href="blog-list.html" class="active">1</a></li>
-                            <li><a href="blog-list.html">2</a></li>
-                            <li><a href="blog-list.html"><i class="flaticon-right-arrow-2"></i></a></li>
+                            <li><a href="blog-list.php" class="active">1</a></li>
+                            <li><a href="blog-list.php">2</a></li>
+                            <li><a href="blog-list.php"><i class="flaticon-right-arrow-2"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -112,7 +112,7 @@ $blogPosts = [
             <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
                 <div class="blog-sidebar">
                     <div class="search-widget">
-                        <form action="blog-grid.html" method="post" class="search-form">
+                        <form action="blog-grid.php" method="post" class="search-form">
                             <div class="form-group">
                                 <input type="search" name="search-field" placeholder="Keyword" required="">
                                 <button type="submit"><i class="flaticon-loupe-1"></i></button>
@@ -126,12 +126,12 @@ $blogPosts = [
                         </div>
                         <div class="widget-content">
                             <ul class="list clearfix">
-                                <li><a href="blog-details.html">Human Resource<span>[4]</span></a></li>
-                                <li><a href="blog-details.html">Payroll<span>[3]</span></a></li>
-                                <li><a href="blog-details.html">Recruitment<span>[2]</span></a></li>
-                                <li><a href="blog-details.html">Salary<span>[5]</span></a></li>
-                                <li><a href="blog-details.html">Staffing<span>[2]</span></a></li>
-                                <li><a href="blog-details.html">Techniques<span>[8]</span></a></li>
+                                <li><a href="blog-details.php">Human Resource<span>[4]</span></a></li>
+                                <li><a href="blog-details.php">Payroll<span>[3]</span></a></li>
+                                <li><a href="blog-details.php">Recruitment<span>[2]</span></a></li>
+                                <li><a href="blog-details.php">Salary<span>[5]</span></a></li>
+                                <li><a href="blog-details.php">Staffing<span>[2]</span></a></li>
+                                <li><a href="blog-details.php">Techniques<span>[8]</span></a></li>
                             </ul>
                         </div>
                     </div>
@@ -142,22 +142,22 @@ $blogPosts = [
                         </div>
                         <div class="widget-content">
                             <div class="post">
-                                <figure class="post-thumb"><a href="blog-details.html"><img
+                                <figure class="post-thumb"><a href="blog-details.php"><img
                                             src="assets/images/news/post-1.jpg" alt=""></a></figure>
                                 <span class="post-date">2 hrs Ago</span>
-                                <h5><a href="blog-details.html">5 Effective Ways to Hire More Workers</a></h5>
+                                <h5><a href="blog-details.php">5 Effective Ways to Hire More Workers</a></h5>
                             </div>
                             <div class="post">
-                                <figure class="post-thumb"><a href="blog-details.html"><img
+                                <figure class="post-thumb"><a href="blog-details.php"><img
                                             src="assets/images/news/post-2.jpg" alt=""></a></figure>
                                 <span class="post-date">21st june, 2020</span>
-                                <h5><a href="blog-details.html">Does My Business Need Director of Training?</a></h5>
+                                <h5><a href="blog-details.php">Does My Business Need Director of Training?</a></h5>
                             </div>
                             <div class="post">
-                                <figure class="post-thumb"><a href="blog-details.html"><img
+                                <figure class="post-thumb"><a href="blog-details.php"><img
                                             src="assets/images/news/post-3.jpg" alt=""></a></figure>
                                 <span class="post-date">28th May, 2020</span>
-                                <h5><a href="blog-details.html">What are the Staffing Trends in 2020</a></h5>
+                                <h5><a href="blog-details.php">What are the Staffing Trends in 2020</a></h5>
                             </div>
                         </div>
                     </div>
@@ -168,17 +168,17 @@ $blogPosts = [
                         </div>
                         <div class="widget-content">
                             <ul class="tags-list clearfix">
-                                <li><a href="blog-grid.html">Consulting</a></li>
-                                <li><a href="blog-grid.html">Contract</a></li>
-                                <li><a href="blog-grid.html">E-books</a></li>
-                                <li><a href="blog-grid.html">E-books</a></li>
-                                <li><a href="blog-grid.html">Hiring</a></li>
-                                <li><a href="blog-grid.html">Industries</a></li>
-                                <li><a href="blog-grid.html">Media Kit</a></li>
-                                <li><a href="blog-grid.html">Outsourcing</a></li>
-                                <li><a href="blog-grid.html">Permanent</a></li>
-                                <li><a href="blog-grid.html">Permanent</a></li>
-                                <li><a href="blog-grid.html">Timesheets</a></li>
+                                <li><a href="blog-grid.php">Consulting</a></li>
+                                <li><a href="blog-grid.php">Contract</a></li>
+                                <li><a href="blog-grid.php">E-books</a></li>
+                                <li><a href="blog-grid.php">E-books</a></li>
+                                <li><a href="blog-grid.php">Hiring</a></li>
+                                <li><a href="blog-grid.php">Industries</a></li>
+                                <li><a href="blog-grid.php">Media Kit</a></li>
+                                <li><a href="blog-grid.php">Outsourcing</a></li>
+                                <li><a href="blog-grid.php">Permanent</a></li>
+                                <li><a href="blog-grid.php">Permanent</a></li>
+                                <li><a href="blog-grid.php">Timesheets</a></li>
                             </ul>
                         </div>
                     </div>
@@ -232,7 +232,7 @@ $blogPosts = [
                             </div>
                             <figure class="iocn-box"><img src="assets/images/icons/icon-68.png" alt=""></figure>
                             <h3>Educational Resources for Job Seekers</h3>
-                            <a href="blog-grid.html">Guides & E-books<i class="flaticon-direct-download"></i></a>
+                            <a href="blog-grid.php">Guides & E-books<i class="flaticon-direct-download"></i></a>
                         </div>
                     </div>
                 </div>

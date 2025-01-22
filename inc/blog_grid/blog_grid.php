@@ -6,7 +6,7 @@ $newsItems = [
         'post_date' => '24<br />May',
         'category' => 'Human Resource',
         'title' => '5 Effective Ways to Hire More Workers',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author' => 'Harley Reuban',
         'comments' => '3 Cmnts',
         'animation_delay' => '00ms',
@@ -16,7 +16,7 @@ $newsItems = [
         'post_date' => '23<br />May',
         'category' => 'Techiques',
         'title' => 'Does My Business Need a Director of Training?',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author' => 'Harley Reuban',
         'comments' => '5 Cmnts',
         'animation_delay' => '300ms',
@@ -26,7 +26,7 @@ $newsItems = [
         'post_date' => '22<br />May',
         'category' => 'Recruitment',
         'title' => 'What are the 2020 Staffing Trends in USA',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author' => 'Harley Reuban',
         'comments' => '4 Cmnts',
         'animation_delay' => '00ms',
@@ -36,7 +36,7 @@ $newsItems = [
         'post_date' => '21<br />May',
         'category' => 'Human Resource',
         'title' => 'Recognizing Our Award Winning Team',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author' => 'Harley Reuban',
         'comments' => '3 Cmnts',
         'animation_delay' => '300ms',
@@ -46,7 +46,7 @@ $newsItems = [
         'post_date' => '20<br />May',
         'category' => 'Techiques',
         'title' => 'What Is the Career Path to Becoming an HR?',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author' => 'Harley Reuban',
         'comments' => '5 Cmnts',
         'animation_delay' => '00ms',
@@ -56,7 +56,7 @@ $newsItems = [
         'post_date' => '19<br />May',
         'category' => 'Recruitment',
         'title' => 'Why Paying a Fair Salary is More Important?',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author' => 'Harley Reuban',
         'comments' => '4 Cmnts',
         'animation_delay' => '300ms',
@@ -97,10 +97,10 @@ $newsItems = [
                                                 </div>
                                                 <h3><a href="<?= $link ?>"><?= $title ?></a></h3>
                                                 <ul class="post-info clearfix">
-                                                    <li><i class="far fa-user"></i><a href="index.html"><?= $author ?></a>
+                                                    <li><i class="far fa-user"></i><a href="index.php"><?= $author ?></a>
                                                     </li>
                                                     <li><i class="far fa-comment"></i><a
-                                                            href="index.html"><?= $comments ?></a></li>
+                                                            href="index.php"><?= $comments ?></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -110,13 +110,13 @@ $newsItems = [
                         <?php } ?>
                     </div>
 
-                    <div class="more-btn centred"><a href="blog-grid.html">Load More</a></div>
+                    <div class="more-btn centred"><a href="blog-grid.php">Load More</a></div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
                 <div class="blog-sidebar">
                     <div class="search-widget">
-                        <form action="blog-grid.html" method="post" class="search-form">
+                        <form action="blog-grid.php" method="post" class="search-form">
                             <div class="form-group">
                                 <input type="search" name="search-field" placeholder="Keyword" required="">
                                 <button type="submit"><i class="flaticon-loupe-1"></i></button>
@@ -130,12 +130,12 @@ $newsItems = [
                         </div>
                         <div class="widget-content">
                             <ul class="list clearfix">
-                                <li><a href="blog-details.html">Human Resource<span>[4]</span></a></li>
-                                <li><a href="blog-details.html">Payroll<span>[3]</span></a></li>
-                                <li><a href="blog-details.html">Recruitment<span>[2]</span></a></li>
-                                <li><a href="blog-details.html">Salary<span>[5]</span></a></li>
-                                <li><a href="blog-details.html">Staffing<span>[2]</span></a></li>
-                                <li><a href="blog-details.html">Techniques<span>[8]</span></a></li>
+                                <li><a href="blog-details.php">Human Resource<span>[4]</span></a></li>
+                                <li><a href="blog-details.php">Payroll<span>[3]</span></a></li>
+                                <li><a href="blog-details.php">Recruitment<span>[2]</span></a></li>
+                                <li><a href="blog-details.php">Salary<span>[5]</span></a></li>
+                                <li><a href="blog-details.php">Staffing<span>[2]</span></a></li>
+                                <li><a href="blog-details.php">Techniques<span>[8]</span></a></li>
                             </ul>
                         </div>
                     </div>
@@ -146,22 +146,22 @@ $newsItems = [
                         </div>
                         <div class="widget-content">
                             <div class="post">
-                                <figure class="post-thumb"><a href="blog-details.html"><img
+                                <figure class="post-thumb"><a href="blog-details.php"><img
                                             src="assets/images/news/post-1.jpg" alt=""></a></figure>
                                 <span class="post-date">2 hrs Ago</span>
-                                <h5><a href="blog-details.html">5 Effective Ways to Hire More Workers</a></h5>
+                                <h5><a href="blog-details.php">5 Effective Ways to Hire More Workers</a></h5>
                             </div>
                             <div class="post">
-                                <figure class="post-thumb"><a href="blog-details.html"><img
+                                <figure class="post-thumb"><a href="blog-details.php"><img
                                             src="assets/images/news/post-2.jpg" alt=""></a></figure>
                                 <span class="post-date">21st june, 2020</span>
-                                <h5><a href="blog-details.html">Does My Business Need Director of Training?</a></h5>
+                                <h5><a href="blog-details.php">Does My Business Need Director of Training?</a></h5>
                             </div>
                             <div class="post">
-                                <figure class="post-thumb"><a href="blog-details.html"><img
+                                <figure class="post-thumb"><a href="blog-details.php"><img
                                             src="assets/images/news/post-3.jpg" alt=""></a></figure>
                                 <span class="post-date">28th May, 2020</span>
-                                <h5><a href="blog-details.html">What are the Staffing Trends in 2020</a></h5>
+                                <h5><a href="blog-details.php">What are the Staffing Trends in 2020</a></h5>
                             </div>
                         </div>
                     </div>
@@ -172,17 +172,17 @@ $newsItems = [
                         </div>
                         <div class="widget-content">
                             <ul class="tags-list clearfix">
-                                <li><a href="blog-grid.html">Consulting</a></li>
-                                <li><a href="blog-grid.html">Contract</a></li>
-                                <li><a href="blog-grid.html">E-books</a></li>
-                                <li><a href="blog-grid.html">E-books</a></li>
-                                <li><a href="blog-grid.html">Hiring</a></li>
-                                <li><a href="blog-grid.html">Industries</a></li>
-                                <li><a href="blog-grid.html">Media Kit</a></li>
-                                <li><a href="blog-grid.html">Outsourcing</a></li>
-                                <li><a href="blog-grid.html">Permanent</a></li>
-                                <li><a href="blog-grid.html">Permanent</a></li>
-                                <li><a href="blog-grid.html">Timesheets</a></li>
+                                <li><a href="blog-grid.php">Consulting</a></li>
+                                <li><a href="blog-grid.php">Contract</a></li>
+                                <li><a href="blog-grid.php">E-books</a></li>
+                                <li><a href="blog-grid.php">E-books</a></li>
+                                <li><a href="blog-grid.php">Hiring</a></li>
+                                <li><a href="blog-grid.php">Industries</a></li>
+                                <li><a href="blog-grid.php">Media Kit</a></li>
+                                <li><a href="blog-grid.php">Outsourcing</a></li>
+                                <li><a href="blog-grid.php">Permanent</a></li>
+                                <li><a href="blog-grid.php">Permanent</a></li>
+                                <li><a href="blog-grid.php">Timesheets</a></li>
                             </ul>
                         </div>
                     </div>
@@ -236,7 +236,7 @@ $newsItems = [
                             </div>
                             <figure class="iocn-box"><img src="assets/images/icons/icon-68.png" alt=""></figure>
                             <h3>Educational Resources for Job Seekers</h3>
-                            <a href="blog-grid.html">Guides & E-books<i class="flaticon-direct-download"></i></a>
+                            <a href="blog-grid.php">Guides & E-books<i class="flaticon-direct-download"></i></a>
                         </div>
                     </div>
                 </div>

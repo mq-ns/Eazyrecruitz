@@ -11,7 +11,7 @@
                                     <div class="inner-box">
                                         <figure class="icon-box"><img src="assets/images/icons/icon-3.png" alt=""></figure>
                                         <h3>Educational Resources <br />for Job Seekers</h3>
-                                        <a href="index.html">Guides & E-books<i class="flaticon-direct-download"></i></a>
+                                        <a href="index.php">Guides & E-books<i class="flaticon-direct-download"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -26,7 +26,7 @@
                                     <div class="text">
                                         <p>Long established fact that reader will be distracted the readable of pages when looking at its layout. The point using lorem ipsum has a more-or-less normal distribution of letters.</p>
                                     </div>
-                                    <div class="link"><a href="index.html"><i class="flaticon-right-arrow"></i>More About Us</a></div>
+                                    <div class="link"><a href="index.php"><i class="flaticon-right-arrow"></i>More About Us</a></div>
                                     <div class="author-box">
                                         <div class="author-text">
                                             <h3>Pathway for both employer and employee.</h3>

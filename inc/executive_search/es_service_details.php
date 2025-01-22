@@ -24,7 +24,7 @@
                             [
                                 'number' => '01',
                                 'title' => 'Administration Roles',
-                                'link' => 'temprory-staffing.html',
+                                'link' => 'temprory-staffing.php',
                                 'icon' => 'flaticon-businessman-1',
                                 'list_title' => 'Roles',
                                 'roles' => ['Office Coordinator', 'Receptionist', 'Facilities', 'Data Entry'],
@@ -32,7 +32,7 @@
                             [
                                 'number' => '02',
                                 'title' => 'Human Resources Roles',
-                                'link' => 'temprory-staffing.html',
+                                'link' => 'temprory-staffing.php',
                                 'icon' => 'flaticon-human-resources',
                                 'list_title' => 'Roles',
                                 'roles' => ['Office Coordinator', 'Receptionist', 'Facilities', 'Data Entry'],
@@ -40,7 +40,7 @@
                             [
                                 'number' => '03',
                                 'title' => 'Customer Support Roles',
-                                'link' => 'temprory-staffing.html',
+                                'link' => 'temprory-staffing.php',
                                 'icon' => 'flaticon-customer-service',
                                 'list_title' => 'Roles',
                                 'roles' => ['Office Coordinator', 'Receptionist', 'Facilities', 'Data Entry'],
@@ -119,7 +119,7 @@
                                             'image' => 'assets/images/service/details-2.jpg',
                                             'title' => 'Short Term Hiring',
                                             'description' => 'Many variations of passage of lorem Ipsum available but the majority have suffered alterations in some form injected humour, or randomised words slightly.',
-                                            'link' => 'temprory-staffing.html',
+                                            'link' => 'temprory-staffing.php',
                                         ],
                                         [
                                             'id' => 'tab-2',
@@ -127,7 +127,7 @@
                                             'image' => 'assets/images/service/details-2.jpg',
                                             'title' => 'Last Minute Hiring',
                                             'description' => 'Many variations of passage of lorem Ipsum available but the majority have suffered alterations in some form injected humour, or randomised words slightly.',
-                                            'link' => 'temprory-staffing.html',
+                                            'link' => 'temprory-staffing.php',
                                         ],
                                         [
                                             'id' => 'tab-3',
@@ -135,7 +135,7 @@
                                             'image' => 'assets/images/service/details-2.jpg',
                                             'title' => 'Immediate Hiring',
                                             'description' => 'Many variations of passage of lorem Ipsum available but the majority have suffered alterations in some form injected humour, or randomised words slightly.',
-                                            'link' => 'temprory-staffing.html',
+                                            'link' => 'temprory-staffing.php',
                                         ],
                                     ];
                                     ?>
@@ -279,13 +279,13 @@
                                 'image' => 'assets/images/project/project-10.jpg',
                                 'category' => '@ Presentation',
                                 'title' => 'Helping Bigbasket Scale Up',
-                                'link' => 'temprory-staffing.html',
+                                'link' => 'temprory-staffing.php',
                             ],
                             [
                                 'image' => 'assets/images/project/project-11.jpg',
                                 'category' => '@ Presentation',
                                 'title' => 'Helping Bigbasket Scale Up',
-                                'link' => 'temprory-staffing.html',
+                                'link' => 'temprory-staffing.php',
                             ],
                         ];
                         ?>
@@ -322,12 +322,12 @@
                 <div class="service-sidebar">
                     <div class="sidebar-widget categories-widget">
                         <ul class="categories-list clearfix">
-                            <li><a href="temprory-staffing.html">Temprory Staffing</a></li>
-                            <li><a href="direct-hire.html">Direct Hire</a></li>
-                            <li><a href="contract-hire.html">Contract to Hire</a></li>
-                            <li><a href="payrolling.html">Payrolling</a></li>
-                            <li><a href="training.html">Training</a></li>
-                            <li><a href="executive-search.html" class="active">Executive Search</a></li>
+                            <li><a href="temprory-staffing.php">Temprory Staffing</a></li>
+                            <li><a href="direct-hire.php">Direct Hire</a></li>
+                            <li><a href="contract-hire.php">Contract to Hire</a></li>
+                            <li><a href="payrolling.php">Payrolling</a></li>
+                            <li><a href="training.php">Training</a></li>
+                            <li><a href="executive-search.php" class="active">Executive Search</a></li>
                         </ul>
                     </div>
                     <div class="sidebar-widget recruitment-widget">
@@ -339,13 +339,13 @@
                                 <h3>Recruitment Solutions for All Industries...</h3>
                             </div>
                             <div class="link">
-                                <a href="index.html"><i class="flaticon-right-arrow"></i>Place a Job Order</a>
+                                <a href="index.php"><i class="flaticon-right-arrow"></i>Place a Job Order</a>
                             </div>
                         </div>
                     </div>
                     <div class="sidebar-widget subscribe-widget">
                         <h3>Reach Out</h3>
-                        <form action="index.html" method="post" class="subscribe-form">
+                        <form action="index.php" method="post" class="subscribe-form">
                             <div class="form-group">
                                 <label>Your Name</label>
                                 <input type="text" name="name" placeholder="Mr/Mrs.xxxxx" required="">

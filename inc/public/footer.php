@@ -16,10 +16,10 @@
                                     </div>
                                     <ul class="social-links clearfix">
                                         <li><h5>Connected:</h5></li>
-                                        <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="index.html"><i class="fab fa-youtube"></i></a></li>
+                                        <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="index.php"><i class="fab fa-google-plus-g"></i></a></li>
+                                        <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -29,16 +29,16 @@
                                         <h3>Useful Links</h3>
                                     </div>
                                     <ul class="links-list clearfix">
-                                        <li><a href="index.html">About Us</a></li>
-                                        <li><a href="index.html">Resources</a></li>
-                                        <li><a href="index.html">Our Solutions</a></li>
-                                        <li><a href="index.html">Testimonials</a></li>
-                                        <li><a href="index.html">Employers</a></li>
-                                        <li><a href="index.html">How It’s Work</a></li>
-                                        <li><a href="index.html">Job Seekers</a></li>
-                                        <li><a href="index.html">Industries</a></li>
-                                        <li><a href="index.html">Leadership</a></li>
-                                        <li><a href="index.html">Contact Us</a></li>
+                                        <li><a href="index.php">About Us</a></li>
+                                        <li><a href="index.php">Resources</a></li>
+                                        <li><a href="index.php">Our Solutions</a></li>
+                                        <li><a href="index.php">Testimonials</a></li>
+                                        <li><a href="index.php">Employers</a></li>
+                                        <li><a href="index.php">How It’s Work</a></li>
+                                        <li><a href="index.php">Job Seekers</a></li>
+                                        <li><a href="index.php">Industries</a></li>
+                                        <li><a href="index.php">Leadership</a></li>
+                                        <li><a href="index.php">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="footer-subscribe">
                     <div class="text centred"><h3>Subscribe Us & Get Our Recruitment Updates in Your Inbox</h3></div>
-                    <form action="contact.html" method="post" class="subscribe-form">
+                    <form action="contact.php" method="post" class="subscribe-form">
                         <div class="form-group">
                             <input type="email" name="email" placeholder="Enter your email address here ..." required="">
                             <button type="submit"><i class="flaticon-right-arrow"></i>Subscribe US</button>
@@ -77,11 +77,11 @@
                     </form>
                 </div>
                 <div class="footer-bottom clearfix">
-                    <div class="copyright pull-left"><p>&copy; 2020 <a href="index.html">Eazy Recruitz</a>, All Rights Reserved.</p></div>
+                    <div class="copyright pull-left"><p>&copy; 2020 <a href="index.php">Eazy Recruitz</a>, All Rights Reserved.</p></div>
                     <ul class="footer-nav pull-right clearfix">
-                        <li><a href="index.html">Privacy Policy</a></li>
-                        <li><a href="index.html">Terms & Conditions</a></li>
-                        <li><a href="index.html">Site Map</a></li>
+                        <li><a href="index.php">Privacy Policy</a></li>
+                        <li><a href="index.php">Terms & Conditions</a></li>
+                        <li><a href="index.php">Site Map</a></li>
                     </ul>
                 </div>
             </div>

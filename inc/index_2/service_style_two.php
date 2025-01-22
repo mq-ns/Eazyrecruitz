@@ -12,7 +12,7 @@ $services = [
             'Shipping Companies',
             'Offices',
         ],
-        'details_link' => 'temprory-staffing.html',
+        'details_link' => 'temprory-staffing.php',
     ],
     [
         'icon' => 'assets/images/icons/icon-21.png',
@@ -25,8 +25,8 @@ $services = [
             'Shipping Companies',
             'Offices',
         ],
-        'details_link' => 'direct-hire.html',
-        'extra_text' => 'To work with us? <a href="index-2.html">Let’s get started</a>',
+        'details_link' => 'direct-hire.php',
+        'extra_text' => 'To work with us? <a href="index-2.php">Let’s get started</a>',
     ],
     [
         'icon' => 'assets/images/icons/icon-22.png',
@@ -39,7 +39,7 @@ $services = [
             'Shipping Companies',
             'Offices',
         ],
-        'details_link' => 'contract-hire.html',
+        'details_link' => 'contract-hire.php',
     ],
 ];
 ?>
@@ -68,7 +68,7 @@ $services = [
                                 <p><?= $description ?></p>
                                 <ul class="list clearfix">
                                     <?php foreach ($list as $listItem){ ?>
-                                        <li><a href="index-2.html"><?= $listItem ?></a></li>
+                                        <li><a href="index-2.php"><?= $listItem ?></a></li>
                                     <?php } ?>
                                 </ul>
                                 <div class="link"><a href="<?= $details_link ?>"><i class="flaticon-right-arrow"></i>More

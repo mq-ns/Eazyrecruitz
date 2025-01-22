@@ -38,7 +38,7 @@
                                         <h6>Payrolling</h6>
                                     </div>
                                 </div>
-                                <div class="link"><a href="index.html"><i class="flaticon-right-arrow"></i>Meet All Team Members</a></div>
+                                <div class="link"><a href="index.php"><i class="flaticon-right-arrow"></i>Meet All Team Members</a></div>
                             </div>
                         </div>
                     </div>

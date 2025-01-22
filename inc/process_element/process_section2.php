@@ -15,21 +15,21 @@
                             'title' => 'Application Screening & Scheduling',
                             'description' => 'Indignation and dislike men who are so beguiled and demoralized.',
                             'icon' => 'assets/images/icons/icon-48.png',
-                            'link' => 'index-3.html'
+                            'link' => 'index-3.php'
                         ],
                         [
                             'number' => '02',
                             'title' => 'Employee On-Boarding Checklist',
                             'description' => 'Desire that they cannot foresee the pain and trouble that are bound.',
                             'icon' => 'assets/images/icons/icon-49.png',
-                            'link' => 'index-3.html'
+                            'link' => 'index-3.php'
                         ],
                         [
                             'number' => '03',
                             'title' => 'Take Care of Employee’s Benefits',
                             'description' => 'Frequently occur that pleasures have to be repudiated and annoyances.',
                             'icon' => 'assets/images/icons/icon-50.png',
-                            'link' => 'index-3.html'
+                            'link' => 'index-3.php'
                         ]
                     ];
 

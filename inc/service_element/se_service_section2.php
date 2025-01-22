@@ -9,21 +9,21 @@
                     'image' => 'assets/images/service/service-1.jpg',
                     'icon' => 'assets/images/icons/icon-4.png',
                     'title' => 'Temporary',
-                    'link' => 'temprory-staffing.html',
+                    'link' => 'temprory-staffing.php',
                     'description' => 'Explain to you how this idea denouncing pleasure & praising pain was born.'
                 ],
                 [
                     'image' => 'assets/images/service/service-2.jpg',
                     'icon' => 'assets/images/icons/icon-5.png',
                     'title' => 'Direct Hire',
-                    'link' => 'direct-hire.html',
+                    'link' => 'direct-hire.php',
                     'description' => 'Explain to you how this idea denouncing pleasure & praising pain was born.'
                 ],
                 [
                     'image' => 'assets/images/service/service-3.jpg',
                     'icon' => 'assets/images/icons/icon-6.png',
                     'title' => 'Contract',
-                    'link' => 'contract-hire.html',
+                    'link' => 'contract-hire.php',
                     'description' => 'Explain to you how this idea denouncing pleasure & praising pain was born.'
                 ]
             ];

@@ -44,7 +44,7 @@
                                                         <h4>Find the Perfect Candidate</h4>
                                                     </li>
                                                 </ul>
-                                                <div class="link"><a href="index.html"><i class="flaticon-right-arrow"></i>Your Required Talent</a></div>
+                                                <div class="link"><a href="index.php"><i class="flaticon-right-arrow"></i>Your Required Talent</a></div>
                                             </div>
                                         </div>
                                         <div class="tab" id="tab-2">
@@ -62,7 +62,7 @@
                                                         <h4>Find the Perfect Candidate</h4>
                                                     </li>
                                                 </ul>
-                                                <div class="link"><a href="index.html"><i class="flaticon-right-arrow"></i>Your Required Talent</a></div>
+                                                <div class="link"><a href="index.php"><i class="flaticon-right-arrow"></i>Your Required Talent</a></div>
                                             </div>
                                         </div>
                                     </div>

@@ -8,17 +8,17 @@
                     [
                         'image' => 'assets/images/project/project-18.jpg',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html'
+                        'link' => 'portfolio-2.php'
                     ],
                     [
                         'image' => 'assets/images/project/project-19.jpg',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html'
+                        'link' => 'portfolio-2.php'
                     ],
                     [
                         'image' => 'assets/images/project/project-20.jpg',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html'
+                        'link' => 'portfolio-2.php'
                     ]
                 ];
 

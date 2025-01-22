@@ -75,7 +75,7 @@
                             'image' => 'assets/images/resource/industries-1.jpg',
                             'title' => 'Logistics & Services Industries',
                             'description' => '26 Jobs in 10 Different Companies',
-                            'link' => 'index.html',
+                            'link' => 'index.php',
                             'active' => true,
                         ],
                         [
@@ -83,7 +83,7 @@
                             'image' => 'assets/images/resource/industries-2.jpg',
                             'title' => 'Hospitality',
                             'description' => '26 Jobs in 10 Different Companies',
-                            'link' => 'index.html',
+                            'link' => 'index.php',
                             'active' => false,
                         ],
                         [
@@ -91,7 +91,7 @@
                             'image' => 'assets/images/resource/industries-3.jpg',
                             'title' => 'Manufacturing',
                             'description' => '26 Jobs in 10 Different Companies',
-                            'link' => 'index.html',
+                            'link' => 'index.php',
                             'active' => false,
                         ],
                         [
@@ -99,7 +99,7 @@
                             'image' => 'assets/images/resource/industries-4.jpg',
                             'title' => 'Education & Government',
                             'description' => '26 Jobs in 10 Different Companies',
-                            'link' => 'index.html',
+                            'link' => 'index.php',
                             'active' => false,
                         ],
                         [
@@ -107,7 +107,7 @@
                             'image' => 'assets/images/resource/industries-5.jpg',
                             'title' => 'Software/IT',
                             'description' => '26 Jobs in 10 Different Companies',
-                            'link' => 'index.html',
+                            'link' => 'index.php',
                             'active' => false,
                         ],
                         [
@@ -115,7 +115,7 @@
                             'image' => 'assets/images/resource/industries-6.jpg',
                             'title' => 'Front Line Support',
                             'description' => '26 Jobs in 10 Different Companies',
-                            'link' => 'index.html',
+                            'link' => 'index.php',
                             'active' => false,
                         ],
                     ];

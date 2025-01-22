@@ -25,7 +25,7 @@
                                             <h3>Find the Perfect Candidate</h3>
                                         </li>
                                     </ul>
-                                    <div class="link"><a href="overview-2.html"><i class="flaticon-right-arrow"></i>Job Opportunities</a></div>
+                                    <div class="link"><a href="overview-2.php"><i class="flaticon-right-arrow"></i>Job Opportunities</a></div>
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                         <div class="text">
                             <h2>There is a way to do it better…find</h2>
                             <p>It is a long established fact that a reader will distractedby the readable ...</p>
-                            <a href="overview-2.html" class="theme-btn-two">Apply Now</a>
+                            <a href="overview-2.php" class="theme-btn-two">Apply Now</a>
                         </div>
                     </div>
                 </div>

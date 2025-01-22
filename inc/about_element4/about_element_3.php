@@ -22,7 +22,7 @@
                                             <h3>Find the Perfect Candidate</h3>
                                         </li>
                                     </ul>
-                                    <div class="link"><a href="about.html" class="theme-btn-two">Learn More</a></div>
+                                    <div class="link"><a href="about.php" class="theme-btn-two">Learn More</a></div>
                                 </div>
                             </div>
                         </div>

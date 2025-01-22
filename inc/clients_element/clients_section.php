@@ -3,32 +3,32 @@
 $clients = [
     [
         'logo' => 'assets/images/clients/clients-logo-13.png',
-        'link' => 'index.html',
+        'link' => 'index.php',
         'title' => 'Visit Website',
     ],
     [
         'logo' => 'assets/images/clients/clients-logo-14.png',
-        'link' => 'index.html',
+        'link' => 'index.php',
         'title' => 'Visit Website',
     ],
     [
         'logo' => 'assets/images/clients/clients-logo-15.png',
-        'link' => 'index.html',
+        'link' => 'index.php',
         'title' => 'Visit Website',
     ],
     [
         'logo' => 'assets/images/clients/clients-logo-16.png',
-        'link' => 'index.html',
+        'link' => 'index.php',
         'title' => 'Visit Website',
     ],
     [
         'logo' => 'assets/images/clients/clients-logo-17.png',
-        'link' => 'index.html',
+        'link' => 'index.php',
         'title' => 'Visit Website',
     ],
     [
         'logo' => 'assets/images/clients/clients-logo-18.png',
-        'link' => 'index.html',
+        'link' => 'index.php',
         'title' => 'Visit Website',
     ],
 ];

@@ -14,7 +14,7 @@
                                 <h2>Company Details</h2>
                                 <p>Please fill out your company details here.</p>
                             </div>
-                            <form action="place-job.html" method="post" class="job-form">
+                            <form action="place-job.php" method="post" class="job-form">
                                 <div class="row clearfix">
                                     <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                         <input type="text" name="name" placeholder="Company Name*" required="">
@@ -50,7 +50,7 @@
                                 <h2>Contact Person</h2>
                                 <p>Please fill out your contact person details here.</p>
                             </div>
-                            <form action="place-job.html" method="post" class="job-form">
+                            <form action="place-job.php" method="post" class="job-form">
                                 <div class="row clearfix">
                                     <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                         <input type="text" name="fname" placeholder="First Name*" required="">
@@ -78,7 +78,7 @@
                                 <h2>Request Talent</h2>
                                 <p>Here you can leave your job details & Submit your job post.</p>
                             </div>
-                            <form action="place-job.html" method="post" class="job-form">
+                            <form action="place-job.php" method="post" class="job-form">
                                 <div class="row clearfix">
                                     <div class="col-lg-4 col-md-6 col-sm-12 column">
                                         <div class="form-group">

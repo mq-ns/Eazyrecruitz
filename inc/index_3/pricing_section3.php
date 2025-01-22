@@ -22,7 +22,7 @@
                         'features' => ['Candidate Sourcing', 'Resume Management', 'Candidate Tracking', 'Integrations'],
                         'price' => '5.5k',
                         'price_unit' => '/ Role / Monthly',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                     ],
                     [
                         'icon' => 'assets/images/icons/icon-36.png',
@@ -31,7 +31,7 @@
                         'features' => ['Candidate Matching', 'Security Control', 'Portal Management', 'Assessments'],
                         'price' => '6.5k',
                         'price_unit' => '/ Role / Monthly',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                     ],
                     [
                         'icon' => 'assets/images/icons/icon-37.png',
@@ -40,7 +40,7 @@
                         'features' => ['Candidate Sourcing', 'Resume Management', 'Candidate Tracking', 'Integrations'],
                         'price' => '8.5k',
                         'price_unit' => '/ Role / Monthly',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                     ],
                 ],
                 'tab-16' => [
@@ -51,7 +51,7 @@
                         'features' => ['Candidate Sourcing', 'Resume Management', 'Candidate Tracking', 'Integrations'],
                         'price' => '9.5k',
                         'price_unit' => '/ Role / Monthly',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                     ],
                     [
                         'icon' => 'assets/images/icons/icon-36.png',
@@ -60,7 +60,7 @@
                         'features' => ['Candidate Matching', 'Security Control', 'Portal Management', 'Assessments'],
                         'price' => '15k',
                         'price_unit' => '/ Role / Monthly',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                     ],
                     [
                         'icon' => 'assets/images/icons/icon-37.png',
@@ -69,7 +69,7 @@
                         'features' => ['Candidate Sourcing', 'Resume Management', 'Candidate Tracking', 'Integrations'],
                         'price' => '25k',
                         'price_unit' => '/ Role / Monthly',
-                        'link' => 'index-2.html',
+                        'link' => 'index-2.php',
                     ],
                 ],
             ];

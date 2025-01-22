@@ -5,12 +5,12 @@
             <?php
             // 假设 $clients 数组结构包含客户的 logo 和 link 信息
             $clients = [
-                ['logo' => 'assets/images/clients/clients-logo-13.png', 'link' => 'index.html'],
-                ['logo' => 'assets/images/clients/clients-logo-14.png', 'link' => 'index.html'],
-                ['logo' => 'assets/images/clients/clients-logo-15.png', 'link' => 'index.html'],
-                ['logo' => 'assets/images/clients/clients-logo-16.png', 'link' => 'index.html'],
-                ['logo' => 'assets/images/clients/clients-logo-17.png', 'link' => 'index.html'],
-                ['logo' => 'assets/images/clients/clients-logo-18.png', 'link' => 'index.html']
+                ['logo' => 'assets/images/clients/clients-logo-13.png', 'link' => 'index.php'],
+                ['logo' => 'assets/images/clients/clients-logo-14.png', 'link' => 'index.php'],
+                ['logo' => 'assets/images/clients/clients-logo-15.png', 'link' => 'index.php'],
+                ['logo' => 'assets/images/clients/clients-logo-16.png', 'link' => 'index.php'],
+                ['logo' => 'assets/images/clients/clients-logo-17.png', 'link' => 'index.php'],
+                ['logo' => 'assets/images/clients/clients-logo-18.png', 'link' => 'index.php']
             ];
 
             // 遍历客户端数据并输出HTML

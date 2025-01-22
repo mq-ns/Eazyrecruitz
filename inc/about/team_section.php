@@ -53,7 +53,7 @@
                             <?php } ?>
                         </div>
 
-                        <div class="link"><a href="index.html"><i class="flaticon-right-arrow"></i>Meet All Team
+                        <div class="link"><a href="index.php"><i class="flaticon-right-arrow"></i>Meet All Team
                                 Members</a></div>
                     </div>
                 </div>
@@ -70,15 +70,15 @@
                                     <div class="share-box">
                                         <p><i class="fas fa-share-alt"></i>Share</p>
                                         <ul class="social-links clearfix">
-                                            <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                            <li><a href="index.html"><i class="fab fa-youtube"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-google-plus-g"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="index.html">Garrett Barnie</a></h3>
+                                    <h3><a href="index.php">Garrett Barnie</a></h3>
                                     <span class="designation">Founder</span>
                                 </div>
                             </div>
@@ -91,15 +91,15 @@
                                     <div class="share-box">
                                         <p><i class="fas fa-share-alt"></i>Share</p>
                                         <ul class="social-links clearfix">
-                                            <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                            <li><a href="index.html"><i class="fab fa-youtube"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-google-plus-g"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="index.html">Isaac Herman</a></h3>
+                                    <h3><a href="index.php">Isaac Herman</a></h3>
                                     <span class="designation">VP, Finance</span>
                                 </div>
                             </div>
@@ -115,15 +115,15 @@
                                     <div class="share-box">
                                         <p><i class="fas fa-share-alt"></i>Share</p>
                                         <ul class="social-links clearfix">
-                                            <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                            <li><a href="index.html"><i class="fab fa-youtube"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-google-plus-g"></i></a></li>
+                                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="index.html">Joel Lou</a></h3>
+                                    <h3><a href="index.php">Joel Lou</a></h3>
                                     <span class="designation">Senior Consultant</span>
                                 </div>
                             </div>

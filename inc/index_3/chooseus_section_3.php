@@ -5,25 +5,25 @@
             'icon' => 'assets/images/icons/icon-44.png',
             'title' => 'Certified Companies',
             'description' => 'Indignations & dislike men beguiled demoralized.',
-            'link' => 'index-2.html',
+            'link' => 'index-2.php',
         ],
         [
             'icon' => 'assets/images/icons/icon-45.png',
             'title' => 'Save Your Time',
             'description' => 'Business it will frequently pleasures repudiated.',
-            'link' => 'index-2.html',
+            'link' => 'index-2.php',
         ],
         [
             'icon' => 'assets/images/icons/icon-46.png',
             'title' => 'Save Your Money',
             'description' => 'Indignations & dislike men beguiled demoralized.',
-            'link' => 'index-2.html',
+            'link' => 'index-2.php',
         ],
         [
             'icon' => 'assets/images/icons/icon-47.png',
             'title' => 'Broad Network',
             'description' => 'Business it will frequently pleasures repudiated.',
-            'link' => 'index-2.html',
+            'link' => 'index-2.php',
         ]
     ];
     ?>

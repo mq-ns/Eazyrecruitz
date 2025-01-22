@@ -14,19 +14,19 @@
                     'icon' => 'assets/images/icons/icon-44.png',
                     'title' => 'Certified Companies',
                     'description' => 'Indignation and dislike men who beguiled demoralized.',
-                    'url' => 'overview-2.html',
+                    'url' => 'overview-2.php',
                 ],
                 [
                     'icon' => 'assets/images/icons/icon-45.png',
                     'title' => 'Save Your Time',
                     'description' => 'Business it will frequently occur pleasures repudiated.',
-                    'url' => 'overview-2.html',
+                    'url' => 'overview-2.php',
                 ],
                 [
                     'icon' => 'assets/images/icons/icon-46.png',
                     'title' => 'Save Your Money',
                     'description' => 'Indignation and dislike men who beguiled demoralized.',
-                    'url' => 'overview-2.html',
+                    'url' => 'overview-2.php',
                 ],
             ];
             ?>

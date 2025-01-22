@@ -10,7 +10,7 @@
                 'title' => 'Partnering <br />You for Your <br />Human Resource Require.',
                 'description' => 'By way of us you can achieve what you want.',
                 'button_text' => 'Learn More',
-                'button_link' => 'index.html',
+                'button_link' => 'index.php',
                 'content_class' => 'col-xl-6 col-lg-12 col-md-12 content-column',
             ],
             [
@@ -21,7 +21,7 @@
                 'title' => 'Shining a Light on Your HR <br />and Employment Law Issues',
                 'description' => 'By way of us you can achieve what you want.',
                 'button_text' => 'Learn More',
-                'button_link' => 'index.html',
+                'button_link' => 'index.php',
                 'content_class' => 'col-xl-6 col-lg-12 col-md-12 offset-xl-6 content-column',
             ],
             [
@@ -32,7 +32,7 @@
                 'title' => 'Eazy Recruitz <br />Provide Employment Opportunities',
                 'description' => 'By way of us you can achieve what you want.',
                 'button_text' => 'Learn More',
-                'button_link' => 'index.html',
+                'button_link' => 'index.php',
                 'content_class' => 'col-xl-7 col-lg-12 col-md-12 content-column',
             ],
         ];

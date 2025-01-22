@@ -20,63 +20,63 @@
                         'image' => 'assets/images/project/project-18.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all presentation consulting market recruitment'
                     ],
                     [
                         'image' => 'assets/images/project/project-19.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all consulting presentation technology'
                     ],
                     [
                         'image' => 'assets/images/project/project-20.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all presentation market recruitment'
                     ],
                     [
                         'image' => 'assets/images/project/project-21.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all consulting technology'
                     ],
                     [
                         'image' => 'assets/images/project/project-22.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all presentation consulting market recruitment'
                     ],
                     [
                         'image' => 'assets/images/project/project-23.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all consulting presentation recruitment technology'
                     ],
                     [
                         'image' => 'assets/images/project/project-24.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all consulting technology'
                     ],
                     [
                         'image' => 'assets/images/project/project-25.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all presentation consulting market recruitment'
                     ],
                     [
                         'image' => 'assets/images/project/project-26.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all consulting presentation recruitment technology'
                     ]
                 ];
@@ -112,10 +112,10 @@
 
             <div class="pagination-wrapper centred">
                 <ul class="pagination">
-                    <li><a href="blog-list.html"><i class="flaticon-arrowhead-thin-outline-to-the-left"></i></a></li>
-                    <li><a href="blog-list.html" class="active">1</a></li>
-                    <li><a href="blog-list.html">2</a></li>
-                    <li><a href="blog-list.html"><i class="flaticon-right-arrow-2"></i></a></li>
+                    <li><a href="blog-list.php"><i class="flaticon-arrowhead-thin-outline-to-the-left"></i></a></li>
+                    <li><a href="blog-list.php" class="active">1</a></li>
+                    <li><a href="blog-list.php">2</a></li>
+                    <li><a href="blog-list.php"><i class="flaticon-right-arrow-2"></i></a></li>
                 </ul>
             </div>
         </div>

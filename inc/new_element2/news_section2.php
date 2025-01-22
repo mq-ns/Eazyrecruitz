@@ -10,7 +10,7 @@
                 'title' => '5 Effective Ways to Hire More Workers',
                 'author' => 'Harley Reuban',
                 'comments' => '3 Cmnts',
-                'link' => 'blog-details.html',
+                'link' => 'blog-details.php',
             ],
             [
                 'image' => 'assets/images/news/news-2.jpg',
@@ -19,7 +19,7 @@
                 'title' => 'Does My Business Need a Director of Training?',
                 'author' => 'Harley Reuban',
                 'comments' => '5 Cmnts',
-                'link' => 'blog-details.html',
+                'link' => 'blog-details.php',
             ],
             [
                 'image' => 'assets/images/news/news-3.jpg',
@@ -28,7 +28,7 @@
                 'title' => 'What are the 2020 Staffing Trends in USA',
                 'author' => 'Harley Reuban',
                 'comments' => '4 Cmnts',
-                'link' => 'blog-details.html',
+                'link' => 'blog-details.php',
             ],
         ];
         ?>
@@ -48,8 +48,8 @@
                                 </div>
                                 <h3><a href="<?= $item['link'] ?>"><?= $item['title'] ?></a></h3>
                                 <ul class="post-info clearfix">
-                                    <li><i class="far fa-user"></i><a href="index.html"><?= $item['author'] ?></a></li>
-                                    <li><i class="far fa-comment"></i><a href="index.html"><?= $item['comments'] ?></a></li>
+                                    <li><i class="far fa-user"></i><a href="index.php"><?= $item['author'] ?></a></li>
+                                    <li><i class="far fa-comment"></i><a href="index.php"><?= $item['comments'] ?></a></li>
                                 </ul>
                             </div>
                         </div>

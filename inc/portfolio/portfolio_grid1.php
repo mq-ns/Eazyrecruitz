@@ -20,42 +20,42 @@
                         'image' => 'assets/images/project/project-12.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all presentation consulting market recruitment'
                     ],
                     [
                         'image' => 'assets/images/project/project-13.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all consulting presentation technology'
                     ],
                     [
                         'image' => 'assets/images/project/project-14.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all presentation market recruitment'
                     ],
                     [
                         'image' => 'assets/images/project/project-15.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all consulting technology'
                     ],
                     [
                         'image' => 'assets/images/project/project-16.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all presentation consulting market recruitment'
                     ],
                     [
                         'image' => 'assets/images/project/project-17.jpg',
                         'category' => 'Presentation',
                         'title' => 'Helping Bigbasket Scale Up',
-                        'link' => 'portfolio-2.html',
+                        'link' => 'portfolio-2.php',
                         'classes' => 'all consulting presentation recruitment technology'
                     ]
                 ];
@@ -89,7 +89,7 @@
                 <?php } ?>
             </div>
 
-            <div class="more-btn centred"><a href="portfolio-1.html">Load More</a></div>
+            <div class="more-btn centred"><a href="portfolio-1.php">Load More</a></div>
         </div>
     </div>
 </section>

@@ -8,9 +8,9 @@ $banners = [
         'subtitle' => 'Engaged with Staffing',
         'title' => 'Partnering You for Your Human Resource Require.',
         'btn_one_text' => 'Hire Now',
-        'btn_one_link' => 'index-2.html',
+        'btn_one_link' => 'index-2.php',
         'btn_two_text' => 'Apply Now',
-        'btn_two_link' => 'index-2.html',
+        'btn_two_link' => 'index-2.php',
     ],
     [
         'background_image' => 'assets/images/banner/banner-5.jpg',
@@ -19,9 +19,9 @@ $banners = [
         'subtitle' => 'The personnel touch',
         'title' => 'Shining a Light on Your HR & Employment Law Issues',
         'btn_one_text' => 'Hire Now',
-        'btn_one_link' => 'index-2.html',
+        'btn_one_link' => 'index-2.php',
         'btn_two_text' => 'Apply Now',
-        'btn_two_link' => 'index-2.html',
+        'btn_two_link' => 'index-2.php',
     ],
     [
         'background_image' => 'assets/images/banner/banner-6.jpg',
@@ -30,9 +30,9 @@ $banners = [
         'subtitle' => 'Choose the best from rest',
         'title' => 'Eazy Recruitz Provide Employment & Opportunities',
         'btn_one_text' => 'Hire Now',
-        'btn_one_link' => 'index-2.html',
+        'btn_one_link' => 'index-2.php',
         'btn_two_text' => 'Apply Now',
-        'btn_two_link' => 'index-2.html',
+        'btn_two_link' => 'index-2.php',
     ],
 ];
 ?>

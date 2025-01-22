@@ -23,7 +23,7 @@
                                         <div class="content-box">
                                             <h5>01</h5>
                                             <h3>Administration Roles</h3>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i></a></div>
+                                            <div class="link"><a href="temprory-staffing.php"><i class="flaticon-right-arrow"></i></a></div>
                                             <div class="icon-box"><i class="flaticon-businessman-1"></i></div>
                                         </div>
                                         <div class="overlay-box">
@@ -35,14 +35,14 @@
                                                 <li>> Facilities</li>
                                                 <li>> Data Entry</li>
                                             </ul>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a></div>
+                                            <div class="link"><a href="temprory-staffing.php"><i class="flaticon-right-arrow"></i>More Details</a></div>
                                         </div>
                                     </div>
                                     <div class="single-column">
                                         <div class="content-box">
                                             <h5>02</h5>
                                             <h3>Human Resources Roles</h3>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i></a></div>
+                                            <div class="link"><a href="temprory-staffing.php"><i class="flaticon-right-arrow"></i></a></div>
                                             <div class="icon-box"><i class="flaticon-human-resources"></i></div>
                                         </div>
                                         <div class="overlay-box">
@@ -54,14 +54,14 @@
                                                 <li>> Facilities</li>
                                                 <li>> Data Entry</li>
                                             </ul>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a></div>
+                                            <div class="link"><a href="temprory-staffing.php"><i class="flaticon-right-arrow"></i>More Details</a></div>
                                         </div>
                                     </div>
                                     <div class="single-column">
                                         <div class="content-box">
                                             <h5>03</h5>
                                             <h3>Customer Suport Roles</h3>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i></a></div>
+                                            <div class="link"><a href="temprory-staffing.php"><i class="flaticon-right-arrow"></i></a></div>
                                             <div class="icon-box"><i class="flaticon-customer-service"></i></div>
                                         </div>
                                         <div class="overlay-box">
@@ -73,7 +73,7 @@
                                                 <li>> Facilities</li>
                                                 <li>> Data Entry</li>
                                             </ul>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a></div>
+                                            <div class="link"><a href="temprory-staffing.php"><i class="flaticon-right-arrow"></i>More Details</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -111,7 +111,7 @@
                                                         <div class="text">
                                                             <h3>Short Term Hiring</h3>
                                                             <p>Many variations of passage of lorem Ipsum available but the majority have suffered alterations in some form injected humour, or randomised words slightly.</p>
-                                                            <a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a>
+                                                            <a href="temprory-staffing.php"><i class="flaticon-right-arrow"></i>More Details</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -121,7 +121,7 @@
                                                         <div class="text">
                                                             <h3>Last Minute Hiring</h3>
                                                             <p>Many variations of passage of lorem Ipsum available but the majority have suffered alterations in some form injected humour, or randomised words slightly.</p>
-                                                            <a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a>
+                                                            <a href="temprory-staffing.php"><i class="flaticon-right-arrow"></i>More Details</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -131,7 +131,7 @@
                                                         <div class="text">
                                                             <h3>Immediate Hiring</h3>
                                                             <p>Many variations of passage of lorem Ipsum available but the majority have suffered alterations in some form injected humour, or randomised words slightly.</p>
-                                                            <a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a>
+                                                            <a href="temprory-staffing.php"><i class="flaticon-right-arrow"></i>More Details</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -229,9 +229,9 @@
                                             <div class="content-box">
                                                 <div class="text">
                                                     <span>@ Presentation</span>
-                                                    <h3><a href="temprory-staffing.html">Helping Bigbasket Scale Up</a></h3>
+                                                    <h3><a href="temprory-staffing.php">Helping Bigbasket Scale Up</a></h3>
                                                 </div>
-                                                <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow-angle"></i></a></div>
+                                                <div class="link"><a href="temprory-staffing.php"><i class="flaticon-right-arrow-angle"></i></a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -241,9 +241,9 @@
                                             <div class="content-box">
                                                 <div class="text">
                                                     <span>@ Presentation</span>
-                                                    <h3><a href="temprory-staffing.html">Helping Bigbasket Scale Up</a></h3>
+                                                    <h3><a href="temprory-staffing.php">Helping Bigbasket Scale Up</a></h3>
                                                 </div>
-                                                <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow-angle"></i></a></div>
+                                                <div class="link"><a href="temprory-staffing.php"><i class="flaticon-right-arrow-angle"></i></a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -255,12 +255,12 @@
                         <div class="service-sidebar">
                             <div class="sidebar-widget categories-widget">
                                 <ul class="categories-list clearfix">
-                                    <li><a href="temprory-staffing.html">Temprory Staffing</a></li>
-                                    <li><a href="direct-hire.html">Direct Hire</a></li>
-                                    <li><a href="contract-hire.html">Contract to Hire</a></li>
-                                    <li><a href="payrolling.html">Payrolling</a></li>
-                                    <li><a href="training.html" class="active">Training</a></li>
-                                    <li><a href="executive-search.html">Executive Search</a></li>
+                                    <li><a href="temprory-staffing.php">Temprory Staffing</a></li>
+                                    <li><a href="direct-hire.php">Direct Hire</a></li>
+                                    <li><a href="contract-hire.php">Contract to Hire</a></li>
+                                    <li><a href="payrolling.php">Payrolling</a></li>
+                                    <li><a href="training.php" class="active">Training</a></li>
+                                    <li><a href="executive-search.php">Executive Search</a></li>
                                 </ul>
                             </div>
                             <div class="sidebar-widget recruitment-widget">
@@ -271,13 +271,13 @@
                                         <h3>Recruitment Solutions for All Industries...</h3>
                                     </div>
                                     <div class="link">
-                                        <a href="index.html"><i class="flaticon-right-arrow"></i>Place a Job Order</a>
+                                        <a href="index.php"><i class="flaticon-right-arrow"></i>Place a Job Order</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="sidebar-widget subscribe-widget">
                                 <h3>Reach Out</h3>
-                                <form action="index.html" method="post" class="subscribe-form">
+                                <form action="index.php" method="post" class="subscribe-form">
                                     <div class="form-group">
                                         <label>Your Name</label>
                                         <input type="text" name="name" placeholder="Mr/Mrs.xxxxx" required="">

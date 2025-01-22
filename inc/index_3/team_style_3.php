@@ -14,10 +14,10 @@
                     'name' => 'Garrett Barnie',
                     'designation' => 'Founder',
                     'social_links' => [
-                        'facebook' => 'index.html',
-                        'twitter' => 'index.html',
-                        'google' => 'index.html',
-                        'youtube' => 'index.html',
+                        'facebook' => 'index.php',
+                        'twitter' => 'index.php',
+                        'google' => 'index.php',
+                        'youtube' => 'index.php',
                     ],
                 ],
                 [
@@ -26,10 +26,10 @@
                     'name' => 'Joel Lou',
                     'designation' => 'Consultant',
                     'social_links' => [
-                        'facebook' => 'index.html',
-                        'twitter' => 'index.html',
-                        'google' => 'index.html',
-                        'youtube' => 'index.html',
+                        'facebook' => 'index.php',
+                        'twitter' => 'index.php',
+                        'google' => 'index.php',
+                        'youtube' => 'index.php',
                     ],
                 ],
                 [
@@ -38,10 +38,10 @@
                     'name' => 'Garrett Barnie',
                     'designation' => 'Consultant',
                     'social_links' => [
-                        'facebook' => 'index.html',
-                        'twitter' => 'index.html',
-                        'google' => 'index.html',
-                        'youtube' => 'index.html',
+                        'facebook' => 'index.php',
+                        'twitter' => 'index.php',
+                        'google' => 'index.php',
+                        'youtube' => 'index.php',
                     ],
                 ],
                 [
@@ -50,10 +50,10 @@
                     'name' => 'Joel Lou',
                     'designation' => 'Consultant',
                     'social_links' => [
-                        'facebook' => 'index.html',
-                        'twitter' => 'index.html',
-                        'google' => 'index.html',
-                        'youtube' => 'index.html',
+                        'facebook' => 'index.php',
+                        'twitter' => 'index.php',
+                        'google' => 'index.php',
+                        'youtube' => 'index.php',
                     ],
                 ],
             ];
@@ -82,7 +82,7 @@
                              </div>
                          </figure>
                          <div class="lower-content">
-                             <h3><a href="index.html"><?= $member_name ?></a></h3>
+                             <h3><a href="index.php"><?= $member_name ?></a></h3>
                              <span class="designation"><?= $member_designation ?></span>
                          </div>
                      </div>

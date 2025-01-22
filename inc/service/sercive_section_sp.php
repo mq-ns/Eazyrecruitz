@@ -18,42 +18,42 @@
                             'image' => 'service-1.jpg',
                             'icon' => 'icon-4.png',
                             'title' => 'Temporary',
-                            'link' => 'temprory-staffing.html',
+                            'link' => 'temprory-staffing.php',
                             'description' => 'Explain to you how this idea denouncing pleasure & praising pain was born.'
                         ],
                         [
                             'image' => 'service-2.jpg',
                             'icon' => 'icon-5.png',
                             'title' => 'Direct Hire',
-                            'link' => 'direct-hire.html',
+                            'link' => 'direct-hire.php',
                             'description' => 'Explain to you how this idea denouncing pleasure & praising pain was born.'
                         ],
                         [
                             'image' => 'service-3.jpg',
                             'icon' => 'icon-6.png',
                             'title' => 'Contract',
-                            'link' => 'contract-hire.html',
+                            'link' => 'contract-hire.php',
                             'description' => 'Explain to you how this idea denouncing pleasure & praising pain was born.'
                         ],
                         [
                             'image' => 'service-4.jpg',
                             'icon' => 'icon-61.png',
                             'title' => 'Payrolling',
-                            'link' => 'temprory-staffing.html',
+                            'link' => 'temprory-staffing.php',
                             'description' => 'Explain to you how this idea denouncing pleasure & praising pain was born.'
                         ],
                         [
                             'image' => 'service-5.jpg',
                             'icon' => 'icon-62.png',
                             'title' => 'Training',
-                            'link' => 'direct-hire.html',
+                            'link' => 'direct-hire.php',
                             'description' => 'Explain to you how this idea denouncing pleasure & praising pain was born.'
                         ],
                         [
                             'image' => 'service-6.jpg',
                             'icon' => 'icon-63.png',
                             'title' => 'Executive Search',
-                            'link' => 'contract-hire.html',
+                            'link' => 'contract-hire.php',
                             'description' => 'Explain to you how this idea denouncing pleasure & praising pain was born.'
                         ]
                     ];

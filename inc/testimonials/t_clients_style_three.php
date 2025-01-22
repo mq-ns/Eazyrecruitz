@@ -17,19 +17,19 @@
                 <div class="clients-inner">
                     <div class="clients-carousel-2 owl-carousel owl-theme owl-dots-none">
                         <figure class="clients-logo-box">
-                            <a href="index.html"><img src="assets/images/clients/clients-logo-19.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/clients/clients-logo-19.png" alt=""></a>
                         </figure>
                         <figure class="clients-logo-box">
-                            <a href="index.html"><img src="assets/images/clients/clients-logo-20.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/clients/clients-logo-20.png" alt=""></a>
                         </figure>
                         <figure class="clients-logo-box">
-                            <a href="index.html"><img src="assets/images/clients/clients-logo-21.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/clients/clients-logo-21.png" alt=""></a>
                         </figure>
                         <figure class="clients-logo-box">
-                            <a href="index.html"><img src="assets/images/clients/clients-logo-22.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/clients/clients-logo-22.png" alt=""></a>
                         </figure>
                         <figure class="clients-logo-box">
-                            <a href="index.html"><img src="assets/images/clients/clients-logo-23.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/clients/clients-logo-23.png" alt=""></a>
                         </figure>
                     </div>
                 </div>

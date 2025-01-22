@@ -8,7 +8,7 @@
                 'pattern_1' => 'assets/images/shape/pattern-16.png',
                 'pattern_2' => 'assets/images/shape/pattern-17.png',
                 'title' => 'Helping Bigbasket Scale Up',
-                'link' => 'index-2.html',
+                'link' => 'index-2.php',
                 'lightbox_image' => 'assets/images/project/project-6.jpg',
             ],
             [
@@ -16,7 +16,7 @@
                 'pattern_1' => 'assets/images/shape/pattern-16.png',
                 'pattern_2' => 'assets/images/shape/pattern-17.png',
                 'title' => 'Helping Bigbasket Scale Up',
-                'link' => 'index-2.html',
+                'link' => 'index-2.php',
                 'lightbox_image' => 'assets/images/project/project-7.jpg',
             ],
             [
@@ -24,7 +24,7 @@
                 'pattern_1' => 'assets/images/shape/pattern-16.png',
                 'pattern_2' => 'assets/images/shape/pattern-17.png',
                 'title' => 'Helping Bigbasket Scale Up',
-                'link' => 'index-2.html',
+                'link' => 'index-2.php',
                 'lightbox_image' => 'assets/images/project/project-8.jpg',
             ],
             [
@@ -32,7 +32,7 @@
                 'pattern_1' => 'assets/images/shape/pattern-16.png',
                 'pattern_2' => 'assets/images/shape/pattern-17.png',
                 'title' => 'Helping Bigbasket Scale Up',
-                'link' => 'index-2.html',
+                'link' => 'index-2.php',
                 'lightbox_image' => 'assets/images/project/project-9.jpg',
             ],
         ];
@@ -71,7 +71,7 @@
         </div>
 
         <div class="more-text centred">
-            <p>Interested to work with us? <a href="index-3.html">Let’s get started</a></p>
+            <p>Interested to work with us? <a href="index-3.php">Let’s get started</a></p>
         </div>
     </div>
 </section>

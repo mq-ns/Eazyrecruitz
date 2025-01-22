@@ -4,42 +4,42 @@
          <div class="sec-title">
              <span class="top-title">News & Updates</span>
              <h2>Featured News and Updates</h2>
-             <a href="blog-grid.html" class="link"><i class="flaticon-right-arrow"></i>View All Post</a>
+             <a href="blog-grid.php" class="link"><i class="flaticon-right-arrow"></i>View All Post</a>
          </div>
          <?php
             $blogs = [
                 [
                     'image' => 'assets/images/news/news-1.jpg',
-                    'link' => 'blog-details.html',
+                    'link' => 'blog-details.php',
                     'date' => '21<br />May',
                     'category' => 'Human Resource',
                     'title' => '5 Effective Ways to Hire More Workers',
                     'author' => 'Harley Reuban',
-                    'author_link' => 'index.html',
+                    'author_link' => 'index.php',
                     'comments' => '3 Cmnts',
-                    'comments_link' => 'index.html',
+                    'comments_link' => 'index.php',
                 ],
                 [
                     'image' => 'assets/images/news/news-2.jpg',
-                    'link' => 'blog-details.html',
+                    'link' => 'blog-details.php',
                     'date' => '20<br />May',
                     'category' => 'Techiques',
                     'title' => 'Does My Business Need a Director of Training?',
                     'author' => 'Harley Reuban',
-                    'author_link' => 'index.html',
+                    'author_link' => 'index.php',
                     'comments' => '5 Cmnts',
-                    'comments_link' => 'index.html',
+                    'comments_link' => 'index.php',
                 ],
                 [
                     'image' => 'assets/images/news/news-3.jpg',
-                    'link' => 'blog-details.html',
+                    'link' => 'blog-details.php',
                     'date' => '19<br />May',
                     'category' => 'Recruitment',
                     'title' => 'What are the 2020 Staffing Trends in USA',
                     'author' => 'Harley Reuban',
-                    'author_link' => 'index.html',
+                    'author_link' => 'index.php',
                     'comments' => '4 Cmnts',
-                    'comments_link' => 'index.html',
+                    'comments_link' => 'index.php',
                 ],
             ];
             ?>

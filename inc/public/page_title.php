@@ -7,7 +7,7 @@
                         <h1>Elements</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Elements</li>
                         <li>About Block 02</li>
                     </ul>

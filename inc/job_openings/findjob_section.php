@@ -7,7 +7,7 @@
             <p>Long established fact that a reader will be distracted by the <br>readable content of a page.</p>
         </div>
         <div class="search-inner">
-            <form action="index.html" method="post" class="search-form">
+            <form action="index.php" method="post" class="search-form">
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-12 col-sm-12 column">
                         <div class="form-group">
@@ -54,7 +54,7 @@
                 'location' => 'Sunnyvale, California',
                 'salary' => '$44,000 - $55,000 Per Year',
                 'experience' => '1-3 Yrs',
-                'link' => 'job-openings.html',
+                'link' => 'job-openings.php',
             ],
             [
                 'type' => 'Contract to Hire',
@@ -65,7 +65,7 @@
                 'location' => 'San Fransisco, California',
                 'salary' => '$85,000 - $90,000 Per Year',
                 'experience' => '3-5 Yrs',
-                'link' => 'job-openings.html',
+                'link' => 'job-openings.php',
             ],
             [
                 'type' => 'Contract',
@@ -76,7 +76,7 @@
                 'location' => 'Boston, Massachusetts',
                 'salary' => '$62,000 - $75,000 Per Year',
                 'experience' => 'Freshers',
-                'link' => 'job-openings.html',
+                'link' => 'job-openings.php',
             ],
             [
                 'type' => 'Contract to Hire',
@@ -87,7 +87,7 @@
                 'location' => 'San Fransisco, California',
                 'salary' => '$85,000 - $90,000 Per Year',
                 'experience' => '3-5 Yrs',
-                'link' => 'job-openings.html',
+                'link' => 'job-openings.php',
             ],
         ];
 

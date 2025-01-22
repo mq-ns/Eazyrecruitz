@@ -6,21 +6,21 @@ $steps = [
         'icon' => 'assets/images/icons/icon-51.png',
         'title' => 'Application Screening & Scheduling',
         'description' => 'Indignation and dislike men who are so beguiled and demoralized.',
-        'link' => 'index-3.html'
+        'link' => 'index-3.php'
     ],
     [
         'step_number' => '02...',
         'icon' => 'assets/images/icons/icon-52.png',
         'title' => 'Employee On-Boarding Checklist',
         'description' => 'Desire that they cannot foresee the pain and trouble that are bound.',
-        'link' => 'index-3.html'
+        'link' => 'index-3.php'
     ],
     [
         'step_number' => '03...',
         'icon' => 'assets/images/icons/icon-53.png',
         'title' => 'Take Care of Employee’s Benefits',
         'description' => 'Frequently occur that pleasures have to be repudiated and annoyances.',
-        'link' => 'index-3.html'
+        'link' => 'index-3.php'
     ],
 ];
 ?>

@@ -14,7 +14,7 @@
                                 <h2>Basic Infomation</h2>
                                 <p>Please fill out your contact person details here.</p>
                             </div>
-                            <form action="place-job.html" method="post" class="job-form information-form">
+                            <form action="place-job.php" method="post" class="job-form information-form">
                                 <div class="row clearfix">
                                     <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                         <input type="text" name="fname" placeholder="First Name*" required="">
@@ -42,7 +42,7 @@
                                 <h2>Qualification</h2>
                                 <p>Please fill out your qualification details here.</p>
                             </div>
-                            <form action="place-job.html" method="post" class="job-form pualification-form">
+                            <form action="place-job.php" method="post" class="job-form pualification-form">
                                 <div class="row clearfix">
                                     <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                         <input type="text" name="name" placeholder="Education" required="">
@@ -73,7 +73,7 @@
                         </div>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 form-column">
-                        <form action="index.html" method="post" class="apply-form">
+                        <form action="index.php" method="post" class="apply-form">
                             <div class="row clearfix">
                                 <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                     <input type="text" name="job_number" placeholder="Job Number*" required="">

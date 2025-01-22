@@ -7,7 +7,7 @@
                             <figure class="image-box"><img src="assets/images/icons/error-img.png" alt=""></figure>
                             <h2>Sorry this page isn’t available</h2>
                             <p>We're not being able to find the page you're looking for</p>
-                            <a href="index.html" class="theme-btn-two">Back to Home</a>
+                            <a href="index.php" class="theme-btn-two">Back to Home</a>
                         </div>
                     </div>
                 </div>

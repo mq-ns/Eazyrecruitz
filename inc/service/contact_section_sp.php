@@ -10,7 +10,7 @@
                 </div>
                 <div class="form-inner">
                     <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-42.png);"></div>
-                    <form action="service.html" method="post" class="default-form">
+                    <form action="service.php" method="post" class="default-form">
                         <div class="row clearfix">
                             <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                 <input type="text" name="name" placeholder="Your Name *" required="">

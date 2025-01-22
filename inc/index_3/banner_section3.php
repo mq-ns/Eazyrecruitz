@@ -6,7 +6,7 @@
             'heading1' => 'HR solution',
             'heading2' => 'Inspired Partnerships',
             'description' => 'On the other hand, we denounce with righteous indignation and <br />dislike men who are so beguiled.',
-            'link' => 'index-2.html',
+            'link' => 'index-2.php',
             'button_text' => 'Hire Now',
         ],
         [
@@ -14,7 +14,7 @@
             'heading1' => 'Right place',
             'heading2' => 'Let Us Look For You',
             'description' => 'On the other hand, we denounce with righteous indignation and <br />dislike men who are so beguiled.',
-            'link' => 'index-2.html',
+            'link' => 'index-2.php',
             'button_text' => 'Hire Now',
         ],
         [
@@ -22,7 +22,7 @@
             'heading1' => 'your Guide',
             'heading2' => 'Placing People First',
             'description' => 'On the other hand, we denounce with righteous indignation and <br />dislike men who are so beguiled.',
-            'link' => 'index-2.html',
+            'link' => 'index-2.php',
             'button_text' => 'Hire Now',
         ],
     ];
@@ -68,9 +68,9 @@
      <div class="social-box">
          <ul class="social-links">
              <li>Follow :</li>
-             <li><a href="index-3.html">Fb</a></li>
-             <li><a href="index-3.html">Tw</a></li>
-             <li><a href="index-3.html">In</a></li>
+             <li><a href="index-3.php">Fb</a></li>
+             <li><a href="index-3.php">Tw</a></li>
+             <li><a href="index-3.php">In</a></li>
          </ul>
      </div>
      <div class="mail-box"><a href="mailto:info@example.com">info@example.com</a></div>

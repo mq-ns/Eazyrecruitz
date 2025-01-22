@@ -21,7 +21,7 @@
                                     </div>
                                     <div class="overlay-box">
                                         <span>01.</span>
-                                        <a href="overview.html"><i class="flaticon-right-arrow-angle"></i></a>
+                                        <a href="overview.php"><i class="flaticon-right-arrow-angle"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@
                                     </div>
                                     <div class="overlay-box">
                                         <span>02.</span>
-                                        <a href="overview.html"><i class="flaticon-right-arrow-angle"></i></a>
+                                        <a href="overview.php"><i class="flaticon-right-arrow-angle"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -57,7 +57,7 @@
                                     </div>
                                     <div class="overlay-box">
                                         <span>01.</span>
-                                        <a href="overview.html"><i class="flaticon-right-arrow-angle"></i></a>
+                                        <a href="overview.php"><i class="flaticon-right-arrow-angle"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@
                                     </div>
                                     <div class="overlay-box">
                                         <span>02.</span>
-                                        <a href="overview.html"><i class="flaticon-right-arrow-angle"></i></a>
+                                        <a href="overview.php"><i class="flaticon-right-arrow-angle"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +93,7 @@
                                     </div>
                                     <div class="overlay-box">
                                         <span>01.</span>
-                                        <a href="overview.html"><i class="flaticon-right-arrow-angle"></i></a>
+                                        <a href="overview.php"><i class="flaticon-right-arrow-angle"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -111,7 +111,7 @@
                                     </div>
                                     <div class="overlay-box">
                                         <span>02.</span>
-                                        <a href="overview.html"><i class="flaticon-right-arrow-angle"></i></a>
+                                        <a href="overview.php"><i class="flaticon-right-arrow-angle"></i></a>
                                     </div>
                                 </div>
                             </div>

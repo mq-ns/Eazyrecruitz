@@ -6,7 +6,7 @@ $newsItems = [
         'date' => '21<br />May',
         'category' => 'Human Resource',
         'title' => '5 Effective Ways to Hire More Workers',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author' => 'Harley Reuban',
         'comments' => 3,
     ],
@@ -15,7 +15,7 @@ $newsItems = [
         'date' => '20<br />May',
         'category' => 'Techiques',
         'title' => 'Does My Business Need a Director of Training?',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author' => 'Harley Reuban',
         'comments' => 5,
     ],
@@ -24,7 +24,7 @@ $newsItems = [
         'date' => '19<br />May',
         'category' => 'Recruitment',
         'title' => 'What are the 2020 Staffing Trends in USA',
-        'link' => 'blog-details.html',
+        'link' => 'blog-details.php',
         'author' => 'Harley Reuban',
         'comments' => 4,
     ],
@@ -60,8 +60,8 @@ $newsItems = [
                                 </div>
                                 <h3><a href="<?= $item_link ?>"><?= $item_title ?></a></h3>
                                 <ul class="post-info clearfix">
-                                    <li><i class="far fa-user"></i><a href="index.html"><?= $item_author ?></a></li>
-                                    <li><i class="far fa-comment"></i><a href="index.html"><?= $item_comments ?> Cmnts</a></li>
+                                    <li><i class="far fa-user"></i><a href="index.php"><?= $item_author ?></a></li>
+                                    <li><i class="far fa-comment"></i><a href="index.php"><?= $item_comments ?> Cmnts</a></li>
                                 </ul>
                             </div>
                         </div>
